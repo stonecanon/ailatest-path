@@ -1,0 +1,620 @@
+[
+  {
+    "institution_id": "minot-state-university",
+    "year": "2026-2027",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 9733,
+    "living_estimate_usd": 9200,
+    "insurance_usd": 2280,
+    "total_annual_cost_usd": 21213,
+    "cost_basis": "Official international cost of attendance: tuition and fees, housing and food, and mandatory health insurance.",
+    "source_urls": [
+      "https://www.minotstateu.edu/enroll/cost.shtml"
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "institution_id": "southwest-minnesota-state-university",
+    "year": "2026-2027",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10361,
+    "living_estimate_usd": 14396,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 24757,
+    "cost_basis": "College Scorecard academic-year cost paired with SMSU official cost-of-attendance page; insurance not separately verified.",
+    "source_urls": [
+      "https://www.smsu.edu/campuslife/financialaid/budget.html",
+      "https://collegescorecard.ed.gov/school/?175078-Southwest-Minnesota-State-University"
+    ],
+    "verification_status": "needs_manual_insurance_check"
+  },
+  {
+    "institution_id": "bemidji-state-university",
+    "year": "2026-2027",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10868,
+    "living_estimate_usd": 11642,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23600,
+    "cost_basis": "Official cost-of-attendance page for living on campus; insurance not separately verified.",
+    "source_urls": [
+      "https://www.bemidjistate.edu/cost-aid/how-aid-works/cost-of-attendance/",
+      "https://www.bemidjistate.edu/admissions/international/"
+    ],
+    "verification_status": "needs_manual_insurance_check"
+  },
+  {
+    "institution_id": "dakota-state-university",
+    "year": "2025-2026",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12278,
+    "living_estimate_usd": 9959,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23889,
+    "cost_basis": "Official direct estimated undergraduate cost for non-SD residents; insurance not separately verified.",
+    "source_urls": [
+      "https://dsu.edu/admissions/cost-of-attendance.html"
+    ],
+    "verification_status": "needs_manual_insurance_check"
+  },
+  {
+    "institution_id": "southeast-missouri-state-university",
+    "year": "2026-2027",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19410,
+    "living_estimate_usd": 12020,
+    "insurance_usd": 1626,
+    "total_annual_cost_usd": 34452.2,
+    "cost_basis": "Official international undergraduate estimate for tuition/general fees, books, housing, meals, personal expenses, and mandatory health insurance.",
+    "source_urls": [
+      "https://semo.edu/student-support/financial-services/cost/"
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "institution_id": "dalton-state-college",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10656,
+    "living_estimate_usd": 2063,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 12719,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139463"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "abraham-baldwin-agricultural-college",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10588,
+    "living_estimate_usd": 3368,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 13956,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?138558"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "gordon-state-college",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10948,
+    "living_estimate_usd": 3823,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 14771,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139968"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "savannah-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19043,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 17191,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?140960"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "clayton-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16532,
+    "living_estimate_usd": 883,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 17415,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139311"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-san-bernardino",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20693,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 17427,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110510"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-fullerton",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20070,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 18269,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110565"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-los-angeles",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19760,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 18403,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110592"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "albany-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17008,
+    "living_estimate_usd": 2325,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 19333,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?138716"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-bakersfield",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20690,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 19522,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110486"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-stanislaus",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20846,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 19739,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110495"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "fort-valley-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16932,
+    "living_estimate_usd": 2947,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 19879,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139719"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-west-florida",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19241,
+    "living_estimate_usd": 706,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 19947,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?138354"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-fresno",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19950,
+    "living_estimate_usd": 145,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20095,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110556"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "georgia-southwestern-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16572,
+    "living_estimate_usd": 3912,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20484,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139764"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-northridge",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20058,
+    "living_estimate_usd": 427,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20485,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110608"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "valdosta-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17836,
+    "living_estimate_usd": 2965,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20801,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?141264"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-north-florida",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20793,
+    "living_estimate_usd": 190,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20983,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?136172"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-arkansas-at-pine-bluff",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17992,
+    "living_estimate_usd": 3137,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21129,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?106412"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "auburn-university-at-montgomery",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20668,
+    "living_estimate_usd": 685,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21353,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?100830"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "florida-international-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18964,
+    "living_estimate_usd": 2498,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21462,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?133951"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "florida-atlantic-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17324,
+    "living_estimate_usd": 4198,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21522,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?133669"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "columbus-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17610,
+    "living_estimate_usd": 4066,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21676,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139366"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-alaska-fairbanks",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 22320,
+    "living_estimate_usd": 87,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22407,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?102614"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-arkansas-at-little-rock",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 22158,
+    "living_estimate_usd": 361,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22519,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?106245"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-florida",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 28659,
+    "living_estimate_usd": 0,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22523,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?134130"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-long-beach",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19950,
+    "living_estimate_usd": 2729,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22679,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110583"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-west-alabama",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20090,
+    "living_estimate_usd": 2668,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22758,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?101587"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-east-bay",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20183,
+    "living_estimate_usd": 2667,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22850,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110574"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-south-florida",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17324,
+    "living_estimate_usd": 5535,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22859,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?137351"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-sacramento",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20618,
+    "living_estimate_usd": 2327,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22945,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110617"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-central-florida",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 22467,
+    "living_estimate_usd": 666,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23133,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?132903"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "troy-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20352,
+    "living_estimate_usd": 2813,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23165,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?102368"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-university-dominguez-hills",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20049,
+    "living_estimate_usd": 3142,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23191,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110547"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "alabama-state-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19576,
+    "living_estimate_usd": 4010,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23586,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?100724"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "university-of-north-alabama",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 22320,
+    "living_estimate_usd": 1466,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23786,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?101879"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "colorado-state-university-pueblo",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17944,
+    "living_estimate_usd": 5993,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23937,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?128106"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "california-state-polytechnic-university-pomona",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20380,
+    "living_estimate_usd": 3575,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23955,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?110529"
+    ],
+    "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "florida-agricultural-and-mechanical-university",
+    "year": "latest Scorecard year",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17725,
+    "living_estimate_usd": 6245,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23970,
+    "cost_basis": "College Scorecard academic-year cost. Confirm the current international student cost on the school website before applying.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?133650"
+    ],
+    "verification_status": "scorecard_screened"
+  }
+]

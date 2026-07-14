@@ -1,0 +1,72 @@
+[
+  {
+    "id": "college-scorecard",
+    "publisher": "U.S. Department of Education",
+    "url": "https://collegescorecard.ed.gov/",
+    "fields_used": ["UNITID", "institution metadata", "cost of attendance", "graduation rate", "retention rate", "earnings", "debt"],
+    "update_cadence": "Annual and periodic federal updates",
+    "ingestion_policy": "Use API or downloadable public data; preserve field names and retrieval date.",
+    "allowed_display_behavior": "Display summarized numeric indicators with source link and caveats.",
+    "notes_and_limitations": "Latest available federal data can lag current school pricing and outcomes."
+  },
+  {
+    "id": "dapip",
+    "publisher": "U.S. Department of Education",
+    "url": "https://ope.ed.gov/dapip/",
+    "fields_used": ["accreditor", "institution accreditation status", "institution search evidence"],
+    "update_cadence": "Continuously updated as reported by recognized accrediting agencies",
+    "ingestion_policy": "Use institution search results or exports when available; record verification date.",
+    "allowed_display_behavior": "Display accreditation evidence and link users back to the official search.",
+    "notes_and_limitations": "The Department of Education notes DAPIP data is reported by agencies and is not audited by ED."
+  },
+  {
+    "id": "hlc-directory",
+    "publisher": "Higher Learning Commission",
+    "url": "https://www.hlcommission.org/directory-of-institutions/",
+    "fields_used": ["institutional accreditation relationship", "accreditor identity"],
+    "update_cadence": "As accreditation actions are published",
+    "ingestion_policy": "Use as accreditor-level confirmation together with school disclosures or DAPIP.",
+    "allowed_display_behavior": "Display accreditor evidence and link to the accreditor directory.",
+    "notes_and_limitations": "Institution-level pages can move behind directory search interfaces."
+  },
+  {
+    "id": "sevp-school-search",
+    "publisher": "U.S. Department of Homeland Security",
+    "url": "https://studyinthestates.dhs.gov/school-search",
+    "fields_used": ["SEVP-certified school search evidence", "F-1 eligibility signal"],
+    "update_cadence": "Continuously updated by DHS",
+    "ingestion_policy": "Store search URL, school name, and verification date; revisit before publication updates.",
+    "allowed_display_behavior": "Display eligibility as an evidence-linked status, not as visa advice.",
+    "notes_and_limitations": "School certification does not imply individual admission, visa issuance, CPT, OPT, or STEM OPT approval."
+  },
+  {
+    "id": "dhs-stem-cip",
+    "publisher": "U.S. Department of Homeland Security / ICE",
+    "url": "https://studyinthestates.dhs.gov/stem-opt-hub/additional-resources/eligible-cip-codes-for-the-stem-opt-extension",
+    "fields_used": ["STEM-designated CIP code evidence"],
+    "update_cadence": "As DHS updates the STEM Designated Degree Program List",
+    "ingestion_policy": "Match school-published CIP codes or explicit STEM designation to the DHS list.",
+    "allowed_display_behavior": "Display STEM OPT evidence only with CIP/source caveat.",
+    "notes_and_limitations": "A STEM-designated CIP is only one eligibility input; OPT/STEM OPT outcomes are never guaranteed."
+  },
+  {
+    "id": "school-official-pages",
+    "publisher": "Individual colleges and universities",
+    "url": "https://path.ailatest.org/sources/school-official-pages",
+    "fields_used": ["current cost pages", "program pages", "admissions links", "English requirements", "accreditation disclosures"],
+    "update_cadence": "Manual review each admissions cycle",
+    "ingestion_policy": "Prefer official current-year pages; record exact URL and verification date.",
+    "allowed_display_behavior": "Display summarized facts with direct links to original pages.",
+    "notes_and_limitations": "Schools can change tuition, fees, scholarships, programs, and admission requirements without notice."
+  },
+  {
+    "id": "public-discussion",
+    "publisher": "Public Reddit and YouTube pages",
+    "url": "https://www.reddit.com/",
+    "fields_used": ["public discussion themes", "short excerpts", "source links", "collection date"],
+    "update_cadence": "Manual review for pilot records only",
+    "ingestion_policy": "Summarize themes; avoid login-only, private, deleted, or bulk raw comment reuse.",
+    "allowed_display_behavior": "Display a short theme summary, optional short excerpt, source link, and caveat that it is not verified fact.",
+    "notes_and_limitations": "Public comments are anecdotal and can be outdated, biased, or unrepresentative."
+  }
+]

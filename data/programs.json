@@ -1,0 +1,72 @@
+[
+  {
+    "institution_id": "minot-state-university",
+    "degree_level": "master's",
+    "program_name": "MS Cybersecurity and Information Assurance",
+    "cip_code": null,
+    "stem_opt_eligible": true,
+    "stem_opt_basis": "School announcement says the program is Minot State's first STEM-designated master's degree; CIP code still needs catalog-level confirmation.",
+    "delivery": ["on-campus", "online"],
+    "official_url": "https://www.minotstateu.edu/pio/news/2026/04/Minot-State-launches-masters-program-in-cybersecurity-and-information-assurance.shtml",
+    "admission_url": "https://catalog.minotstateu.edu/graduate/admission-requirements/international-students/",
+    "english_requirement_summary": "International applicants should verify graduate English and document requirements in the official catalog/admissions pages.",
+    "conditional_admission_available": null,
+    "source_urls": ["https://www.minotstateu.edu/pio/news/2026/04/Minot-State-launches-masters-program-in-cybersecurity-and-information-assurance.shtml", "https://catalog.minotstateu.edu/graduate/admission-requirements/international-students/"]
+  },
+  {
+    "institution_id": "dakota-state-university",
+    "degree_level": "master's",
+    "program_name": "MS Computer Science",
+    "cip_code": "11.0101",
+    "stem_opt_eligible": true,
+    "stem_opt_basis": "Computer and information sciences CIP series is included in DHS STEM-designated fields; school program page and DSU program-modification materials identify MSCS.",
+    "delivery": ["on-campus", "online"],
+    "official_url": "https://dsu.edu/programs/mscs/",
+    "admission_url": "https://dsu.edu/programs/mscs/mscs-timelines-requirements.html",
+    "english_requirement_summary": "International students should verify current graduate English requirements with DSU admissions before applying.",
+    "conditional_admission_available": null,
+    "source_urls": ["https://dsu.edu/programs/mscs/", "https://dsu.edu/programs/mscs/mscs-timelines-requirements.html", "https://studyinthestates.dhs.gov/stem-opt-hub/additional-resources/eligible-cip-codes-for-the-stem-opt-extension"]
+  },
+  {
+    "institution_id": "southeast-missouri-state-university",
+    "degree_level": "master's",
+    "program_name": "MS Applied Computer Science",
+    "cip_code": null,
+    "stem_opt_eligible": false,
+    "stem_opt_basis": "Official SEMO page verifies the program; STEM OPT badge is withheld until a school-published CIP code is captured.",
+    "delivery": ["online"],
+    "official_url": "https://semo.edu/academics/programs/online/graduate-online/applied-computer-science-online",
+    "admission_url": "https://semo.edu/international/admissions/",
+    "english_requirement_summary": "International applicants should use SEMO international admissions for country documents, fees, and English requirements.",
+    "conditional_admission_available": null,
+    "source_urls": ["https://semo.edu/academics/programs/online/graduate-online/applied-computer-science-online", "https://semo.edu/international/admissions/"]
+  },
+  {
+    "institution_id": "bemidji-state-university",
+    "degree_level": "undergraduate",
+    "program_name": "BS Computer Information Systems",
+    "cip_code": null,
+    "stem_opt_eligible": false,
+    "stem_opt_basis": "Official undergraduate STEM-adjacent program captured; STEM OPT badge is not displayed without CIP evidence.",
+    "delivery": ["on-campus"],
+    "official_url": "https://www.bemidjistate.edu/academics/programs/computer-information-systems/",
+    "admission_url": "https://www.bemidjistate.edu/admissions/international/",
+    "english_requirement_summary": "International applicants should verify current English requirements with BSU admissions.",
+    "conditional_admission_available": null,
+    "source_urls": ["https://www.bemidjistate.edu/admissions/international/"]
+  },
+  {
+    "institution_id": "southwest-minnesota-state-university",
+    "degree_level": "undergraduate",
+    "program_name": "Computer Science / Computer-related undergraduate pathways",
+    "cip_code": null,
+    "stem_opt_eligible": false,
+    "stem_opt_basis": "STEM availability is noted for filtering, but STEM OPT is not displayed without CIP evidence.",
+    "delivery": ["on-campus"],
+    "official_url": "https://www.smsu.edu/academics/programs/index.html",
+    "admission_url": "https://www.smsu.edu/admission/internationalstudents/index.html",
+    "english_requirement_summary": "International applicants should verify current SMSU English and document requirements before applying.",
+    "conditional_admission_available": null,
+    "source_urls": ["https://www.smsu.edu/academics/programs/index.html", "https://www.smsu.edu/admission/internationalstudents/index.html"]
+  }
+]

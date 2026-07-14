@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "minot-state-university",
+    "unitid": 200253,
+    "opeid": "00299400",
+    "name": "Minot State University",
+    "country": "United States",
+    "state": "ND",
+    "city": "Minot",
+    "control": "Public",
+    "level": [
+      "undergraduate",
+      "master's"
+    ],
+    "website": "https://www.minotstateu.edu/",
+    "apply_url": "https://www.minotstateu.edu/enroll/apply.shtml",
+    "accreditation_status": "Accredited by the Higher Learning Commission",
+    "sevp_status": "SEVP-certified school; verify campus details in DHS School Search before application",
+    "public_data_status": "College Scorecard UNITID 200253",
+    "legitimacy_label": "Verified Legit",
+    "source_urls": {
+      "accreditation": "https://www.minotstateu.edu/accreditation/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Minot%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?200253-Minot-State-University"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "southwest-minnesota-state-university",
+    "unitid": 175078,
+    "opeid": "00237500",
+    "name": "Southwest Minnesota State University",
+    "country": "United States",
+    "state": "MN",
+    "city": "Marshall",
+    "control": "Public",
+    "level": [
+      "undergraduate",
+      "master's"
+    ],
+    "website": "https://www.smsu.edu/",
+    "apply_url": "https://www.smsu.edu/admission/apply.html",
+    "accreditation_status": "Accredited by the Higher Learning Commission",
+    "sevp_status": "SEVP-certified school; verify campus details in DHS School Search before application",
+    "public_data_status": "College Scorecard UNITID 175078",
+    "legitimacy_label": "Verified Legit",
+    "source_urls": {
+      "accreditation": "https://www.smsu.edu/administration/accreditations/index.html",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southwest%20Minnesota%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?175078-Southwest-Minnesota-State-University"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "bemidji-state-university",
+    "unitid": 173124,
+    "opeid": "00233600",
+    "name": "Bemidji State University",
+    "country": "United States",
+    "state": "MN",
+    "city": "Bemidji",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.bemidjistate.edu/",
+    "apply_url": "https://www.bemidjistate.edu/admissions/apply/",
+    "accreditation_status": "Accredited by the Higher Learning Commission",
+    "sevp_status": "SEVP-certified school; verify campus details in DHS School Search before application",
+    "public_data_status": "College Scorecard UNITID 173124",
+    "legitimacy_label": "Verified Legit",
+    "source_urls": {
+      "accreditation": "https://www.bemidjistate.edu/academics/affairs/academic-plans-programs/accreditation-program-approval/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Bemidji%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?173124-Bemidji-State-University"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "dakota-state-university",
+    "unitid": 219082,
+    "opeid": "00346300",
+    "name": "Dakota State University",
+    "country": "United States",
+    "state": "SD",
+    "city": "Madison",
+    "control": "Public",
+    "level": [
+      "undergraduate",
+      "master's"
+    ],
+    "website": "https://dsu.edu/",
+    "apply_url": "https://dsu.edu/admissions/apply.html",
+    "accreditation_status": "Accredited by the Higher Learning Commission",
+    "sevp_status": "SEVP-certified school; verify campus details in DHS School Search before application",
+    "public_data_status": "College Scorecard UNITID 219082",
+    "legitimacy_label": "Verified Legit",
+    "source_urls": {
+      "accreditation": "https://dsu.edu/about-dsu/accreditation/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Dakota%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219082-Dakota-State-University"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "southeast-missouri-state-university",
+    "unitid": 179557,
+    "opeid": "00250100",
+    "name": "Southeast Missouri State University",
+    "country": "United States",
+    "state": "MO",
+    "city": "Cape Girardeau",
+    "control": "Public",
+    "level": [
+      "undergraduate",
+      "master's"
+    ],
+    "website": "https://semo.edu/",
+    "apply_url": "https://semo.edu/international/admissions/",
+    "accreditation_status": "Accredited by the Higher Learning Commission",
+    "sevp_status": "SEVP-certified school; verify campus details in DHS School Search before application",
+    "public_data_status": "College Scorecard UNITID 179557",
+    "legitimacy_label": "Verified Legit",
+    "source_urls": {
+      "accreditation": "https://semo.edu/about/accreditation/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southeast%20Missouri%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?179557-Southeast-Missouri-State-University"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "dalton-state-college",
+    "unitid": 139463,
+    "opeid": null,
+    "name": "Dalton State College",
+    "country": "United States",
+    "state": "GA",
+    "city": "Dalton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139463",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Dalton%20State%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139463"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "abraham-baldwin-agricultural-college",
+    "unitid": 138558,
+    "opeid": null,
+    "name": "Abraham Baldwin Agricultural College",
+    "country": "United States",
+    "state": "GA",
+    "city": "Tifton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 138558",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Abraham%20Baldwin%20Agricultural%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?138558"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "gordon-state-college",
+    "unitid": 139968,
+    "opeid": null,
+    "name": "Gordon State College",
+    "country": "United States",
+    "state": "GA",
+    "city": "Barnesville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139968",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Gordon%20State%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139968"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "savannah-state-university",
+    "unitid": 140960,
+    "opeid": null,
+    "name": "Savannah State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Savannah",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 140960",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Savannah%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?140960"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "clayton-state-university",
+    "unitid": 139311,
+    "opeid": null,
+    "name": "Clayton State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Morrow",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139311",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Clayton%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139311"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-san-bernardino",
+    "unitid": 110510,
+    "opeid": null,
+    "name": "California State University-San Bernardino",
+    "country": "United States",
+    "state": "CA",
+    "city": "San Bernardino",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110510",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-San%20Bernardino",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110510"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-fullerton",
+    "unitid": 110565,
+    "opeid": null,
+    "name": "California State University-Fullerton",
+    "country": "United States",
+    "state": "CA",
+    "city": "Fullerton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110565",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Fullerton",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110565"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-los-angeles",
+    "unitid": 110592,
+    "opeid": null,
+    "name": "California State University-Los Angeles",
+    "country": "United States",
+    "state": "CA",
+    "city": "Los Angeles",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110592",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Los%20Angeles",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110592"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "albany-state-university",
+    "unitid": 138716,
+    "opeid": null,
+    "name": "Albany State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Albany",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 138716",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Albany%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?138716"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-bakersfield",
+    "unitid": 110486,
+    "opeid": null,
+    "name": "California State University-Bakersfield",
+    "country": "United States",
+    "state": "CA",
+    "city": "Bakersfield",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110486",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Bakersfield",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110486"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-stanislaus",
+    "unitid": 110495,
+    "opeid": null,
+    "name": "California State University-Stanislaus",
+    "country": "United States",
+    "state": "CA",
+    "city": "Turlock",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110495",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Stanislaus",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110495"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "fort-valley-state-university",
+    "unitid": 139719,
+    "opeid": null,
+    "name": "Fort Valley State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Fort Valley",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139719",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Fort%20Valley%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139719"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-west-florida",
+    "unitid": 138354,
+    "opeid": null,
+    "name": "University of West Florida",
+    "country": "United States",
+    "state": "FL",
+    "city": "Pensacola",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 138354",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20West%20Florida",
+      "scorecard": "https://collegescorecard.ed.gov/school/?138354"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-fresno",
+    "unitid": 110556,
+    "opeid": null,
+    "name": "California State University-Fresno",
+    "country": "United States",
+    "state": "CA",
+    "city": "Fresno",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110556",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Fresno",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110556"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "georgia-southwestern-state-university",
+    "unitid": 139764,
+    "opeid": null,
+    "name": "Georgia Southwestern State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Americus",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139764",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Georgia%20Southwestern%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139764"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-northridge",
+    "unitid": 110608,
+    "opeid": null,
+    "name": "California State University-Northridge",
+    "country": "United States",
+    "state": "CA",
+    "city": "Northridge",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110608",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Northridge",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110608"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "valdosta-state-university",
+    "unitid": 141264,
+    "opeid": null,
+    "name": "Valdosta State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Valdosta",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 141264",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Valdosta%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?141264"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-north-florida",
+    "unitid": 136172,
+    "opeid": null,
+    "name": "University of North Florida",
+    "country": "United States",
+    "state": "FL",
+    "city": "Jacksonville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 136172",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Florida",
+      "scorecard": "https://collegescorecard.ed.gov/school/?136172"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-arkansas-at-pine-bluff",
+    "unitid": 106412,
+    "opeid": null,
+    "name": "University of Arkansas at Pine Bluff",
+    "country": "United States",
+    "state": "AR",
+    "city": "Pine Bluff",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 106412",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Arkansas%20at%20Pine%20Bluff",
+      "scorecard": "https://collegescorecard.ed.gov/school/?106412"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "auburn-university-at-montgomery",
+    "unitid": 100830,
+    "opeid": null,
+    "name": "Auburn University at Montgomery",
+    "country": "United States",
+    "state": "AL",
+    "city": "Montgomery",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 100830",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Auburn%20University%20at%20Montgomery",
+      "scorecard": "https://collegescorecard.ed.gov/school/?100830"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "florida-international-university",
+    "unitid": 133951,
+    "opeid": null,
+    "name": "Florida International University",
+    "country": "United States",
+    "state": "FL",
+    "city": "Miami",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 133951",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Florida%20International%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?133951"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "florida-atlantic-university",
+    "unitid": 133669,
+    "opeid": null,
+    "name": "Florida Atlantic University",
+    "country": "United States",
+    "state": "FL",
+    "city": "Boca Raton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 133669",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Florida%20Atlantic%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?133669"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "columbus-state-university",
+    "unitid": 139366,
+    "opeid": null,
+    "name": "Columbus State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Columbus",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139366",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Columbus%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139366"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-alaska-fairbanks",
+    "unitid": 102614,
+    "opeid": null,
+    "name": "University of Alaska Fairbanks",
+    "country": "United States",
+    "state": "AK",
+    "city": "Fairbanks",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 102614",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Alaska%20Fairbanks",
+      "scorecard": "https://collegescorecard.ed.gov/school/?102614"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-arkansas-at-little-rock",
+    "unitid": 106245,
+    "opeid": null,
+    "name": "University of Arkansas at Little Rock",
+    "country": "United States",
+    "state": "AR",
+    "city": "Little Rock",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 106245",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Arkansas%20at%20Little%20Rock",
+      "scorecard": "https://collegescorecard.ed.gov/school/?106245"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-florida",
+    "unitid": 134130,
+    "opeid": null,
+    "name": "University of Florida",
+    "country": "United States",
+    "state": "FL",
+    "city": "Gainesville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 134130",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Florida",
+      "scorecard": "https://collegescorecard.ed.gov/school/?134130"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-long-beach",
+    "unitid": 110583,
+    "opeid": null,
+    "name": "California State University-Long Beach",
+    "country": "United States",
+    "state": "CA",
+    "city": "Long Beach",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110583",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Long%20Beach",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110583"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-west-alabama",
+    "unitid": 101587,
+    "opeid": null,
+    "name": "University of West Alabama",
+    "country": "United States",
+    "state": "AL",
+    "city": "Livingston",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 101587",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20West%20Alabama",
+      "scorecard": "https://collegescorecard.ed.gov/school/?101587"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-east-bay",
+    "unitid": 110574,
+    "opeid": null,
+    "name": "California State University-East Bay",
+    "country": "United States",
+    "state": "CA",
+    "city": "Hayward",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110574",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-East%20Bay",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110574"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-south-florida",
+    "unitid": 137351,
+    "opeid": null,
+    "name": "University of South Florida",
+    "country": "United States",
+    "state": "FL",
+    "city": "Tampa",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 137351",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20South%20Florida",
+      "scorecard": "https://collegescorecard.ed.gov/school/?137351"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-sacramento",
+    "unitid": 110617,
+    "opeid": null,
+    "name": "California State University-Sacramento",
+    "country": "United States",
+    "state": "CA",
+    "city": "Sacramento",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110617",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Sacramento",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110617"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-central-florida",
+    "unitid": 132903,
+    "opeid": null,
+    "name": "University of Central Florida",
+    "country": "United States",
+    "state": "FL",
+    "city": "Orlando",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 132903",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Central%20Florida",
+      "scorecard": "https://collegescorecard.ed.gov/school/?132903"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "troy-university",
+    "unitid": 102368,
+    "opeid": null,
+    "name": "Troy University",
+    "country": "United States",
+    "state": "AL",
+    "city": "Troy",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 102368",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Troy%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?102368"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-university-dominguez-hills",
+    "unitid": 110547,
+    "opeid": null,
+    "name": "California State University-Dominguez Hills",
+    "country": "United States",
+    "state": "CA",
+    "city": "Carson",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110547",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20University-Dominguez%20Hills",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110547"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "alabama-state-university",
+    "unitid": 100724,
+    "opeid": null,
+    "name": "Alabama State University",
+    "country": "United States",
+    "state": "AL",
+    "city": "Montgomery",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 100724",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Alabama%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?100724"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "university-of-north-alabama",
+    "unitid": 101879,
+    "opeid": null,
+    "name": "University of North Alabama",
+    "country": "United States",
+    "state": "AL",
+    "city": "Florence",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 101879",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Alabama",
+      "scorecard": "https://collegescorecard.ed.gov/school/?101879"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "colorado-state-university-pueblo",
+    "unitid": 128106,
+    "opeid": null,
+    "name": "Colorado State University Pueblo",
+    "country": "United States",
+    "state": "CO",
+    "city": "Pueblo",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 128106",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Colorado%20State%20University%20Pueblo",
+      "scorecard": "https://collegescorecard.ed.gov/school/?128106"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "california-state-polytechnic-university-pomona",
+    "unitid": 110529,
+    "opeid": null,
+    "name": "California State Polytechnic University-Pomona",
+    "country": "United States",
+    "state": "CA",
+    "city": "Pomona",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 110529",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=California%20State%20Polytechnic%20University-Pomona",
+      "scorecard": "https://collegescorecard.ed.gov/school/?110529"
+    },
+    "verified_at": "2026-07-07"
+  },
+  {
+    "id": "florida-agricultural-and-mechanical-university",
+    "unitid": 133650,
+    "opeid": null,
+    "name": "Florida Agricultural and Mechanical University",
+    "country": "United States",
+    "state": "FL",
+    "city": "Tallahassee",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": null,
+    "apply_url": null,
+    "accreditation_status": "Accreditation needs to be checked on DAPIP or the school website",
+    "sevp_status": "F-1 school eligibility needs to be checked in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 133650",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Florida%20Agricultural%20and%20Mechanical%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?133650"
+    },
+    "verified_at": "2026-07-07"
+  }
+]

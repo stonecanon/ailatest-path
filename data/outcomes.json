@@ -1,0 +1,398 @@
+[
+  {
+    "institution_id": "minot-state-university",
+    "graduation_rate": 0.4631,
+    "retention_rate": 0.6648,
+    "earnings_signal": 51759,
+    "debt_signal": 19609,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "southwest-minnesota-state-university",
+    "graduation_rate": 0.4459,
+    "retention_rate": 0.7371,
+    "earnings_signal": 51342,
+    "debt_signal": 20500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "bemidji-state-university",
+    "graduation_rate": 0.5065,
+    "retention_rate": 0.7267,
+    "earnings_signal": 53755,
+    "debt_signal": 19750,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "dakota-state-university",
+    "graduation_rate": 0.5033,
+    "retention_rate": 0.7546,
+    "earnings_signal": 50970,
+    "debt_signal": 23500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "southeast-missouri-state-university",
+    "graduation_rate": 0.5673,
+    "retention_rate": 0.7576,
+    "earnings_signal": 44030,
+    "debt_signal": 21500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "dalton-state-college",
+    "graduation_rate": 0.2755,
+    "retention_rate": 0.709,
+    "earnings_signal": 40251,
+    "debt_signal": 12937,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "abraham-baldwin-agricultural-college",
+    "graduation_rate": 0.3251,
+    "retention_rate": 0.6917,
+    "earnings_signal": 34996,
+    "debt_signal": 16750,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "gordon-state-college",
+    "graduation_rate": 0.1863,
+    "retention_rate": 0.5122,
+    "earnings_signal": 37871,
+    "debt_signal": 17500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "savannah-state-university",
+    "graduation_rate": 0.2652,
+    "retention_rate": 0.7472,
+    "earnings_signal": 37981,
+    "debt_signal": 28000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "clayton-state-university",
+    "graduation_rate": 0.3762,
+    "retention_rate": 0.7088,
+    "earnings_signal": 49179,
+    "debt_signal": 25706,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-san-bernardino",
+    "graduation_rate": 0.5478,
+    "retention_rate": 0.7959,
+    "earnings_signal": 59977,
+    "debt_signal": 14715,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-fullerton",
+    "graduation_rate": 0.697,
+    "retention_rate": 0.8242,
+    "earnings_signal": 62951,
+    "debt_signal": 13750,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-los-angeles",
+    "graduation_rate": 0.5279,
+    "retention_rate": 0.7185,
+    "earnings_signal": 59211,
+    "debt_signal": 13000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "albany-state-university",
+    "graduation_rate": 0.2712,
+    "retention_rate": 0.7857,
+    "earnings_signal": 40674,
+    "debt_signal": 25024,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-bakersfield",
+    "graduation_rate": 0.4956,
+    "retention_rate": 0.7883,
+    "earnings_signal": 59009,
+    "debt_signal": 16600,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-stanislaus",
+    "graduation_rate": 0.5561,
+    "retention_rate": 0.8246,
+    "earnings_signal": 63188,
+    "debt_signal": 13540,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "fort-valley-state-university",
+    "graduation_rate": 0.4324,
+    "retention_rate": 0.7851,
+    "earnings_signal": 36666,
+    "debt_signal": 31000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-west-florida",
+    "graduation_rate": 0.6027,
+    "retention_rate": 0.8876,
+    "earnings_signal": 49137,
+    "debt_signal": 16624,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-fresno",
+    "graduation_rate": 0.5592,
+    "retention_rate": 0.8157,
+    "earnings_signal": 61244,
+    "debt_signal": 14505,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "georgia-southwestern-state-university",
+    "graduation_rate": 0.3608,
+    "retention_rate": 0.5755,
+    "earnings_signal": 48757,
+    "debt_signal": 18851,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-northridge",
+    "graduation_rate": 0.5655,
+    "retention_rate": 0.7344,
+    "earnings_signal": 59115,
+    "debt_signal": 13872,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "valdosta-state-university",
+    "graduation_rate": 0.4205,
+    "retention_rate": 0.7187,
+    "earnings_signal": 49361,
+    "debt_signal": 24779,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-north-florida",
+    "graduation_rate": 0.6871,
+    "retention_rate": 0.8466,
+    "earnings_signal": 56343,
+    "debt_signal": 15531,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-arkansas-at-pine-bluff",
+    "graduation_rate": 0.4007,
+    "retention_rate": 0.6416,
+    "earnings_signal": 35550,
+    "debt_signal": 24202,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "auburn-university-at-montgomery",
+    "graduation_rate": 0.3402,
+    "retention_rate": 0.6757,
+    "earnings_signal": 44391,
+    "debt_signal": 25000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "florida-international-university",
+    "graduation_rate": 0.7416,
+    "retention_rate": 0.9185,
+    "earnings_signal": 60249,
+    "debt_signal": 16500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "florida-atlantic-university",
+    "graduation_rate": 0.6339,
+    "retention_rate": 0.8447,
+    "earnings_signal": 56746,
+    "debt_signal": 17236,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "columbus-state-university",
+    "graduation_rate": 0.4175,
+    "retention_rate": 0.6966,
+    "earnings_signal": 44544,
+    "debt_signal": 26000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-alaska-fairbanks",
+    "graduation_rate": 0.3486,
+    "retention_rate": 0.7406,
+    "earnings_signal": 48866,
+    "debt_signal": 20291,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-arkansas-at-little-rock",
+    "graduation_rate": 0.4152,
+    "retention_rate": 0.7647,
+    "earnings_signal": 45265,
+    "debt_signal": 22000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-florida",
+    "graduation_rate": 0.9131,
+    "retention_rate": 0.9771,
+    "earnings_signal": 71588,
+    "debt_signal": 15000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-long-beach",
+    "graduation_rate": 0.6933,
+    "retention_rate": 0.868,
+    "earnings_signal": 64403,
+    "debt_signal": 14289,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-west-alabama",
+    "graduation_rate": 0.3646,
+    "retention_rate": 0.6488,
+    "earnings_signal": 44232,
+    "debt_signal": 24944,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-east-bay",
+    "graduation_rate": 0.4674,
+    "retention_rate": 0.7569,
+    "earnings_signal": 71401,
+    "debt_signal": 16544,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-south-florida",
+    "graduation_rate": 0.7568,
+    "retention_rate": 0.9128,
+    "earnings_signal": 57743,
+    "debt_signal": 17988,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-sacramento",
+    "graduation_rate": 0.5606,
+    "retention_rate": 0.8191,
+    "earnings_signal": 64876,
+    "debt_signal": 15000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-central-florida",
+    "graduation_rate": 0.7662,
+    "retention_rate": 0.9235,
+    "earnings_signal": 58308,
+    "debt_signal": 18190,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "troy-university",
+    "graduation_rate": 0.4847,
+    "retention_rate": 0.7121,
+    "earnings_signal": 42062,
+    "debt_signal": 25000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-university-dominguez-hills",
+    "graduation_rate": 0.4463,
+    "retention_rate": 0.7365,
+    "earnings_signal": 57162,
+    "debt_signal": 13807,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "alabama-state-university",
+    "graduation_rate": 0.3026,
+    "retention_rate": 0.6975,
+    "earnings_signal": 34502,
+    "debt_signal": 31000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "university-of-north-alabama",
+    "graduation_rate": 0.5445,
+    "retention_rate": 0.7969,
+    "earnings_signal": 45415,
+    "debt_signal": 22077,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "colorado-state-university-pueblo",
+    "graduation_rate": 0.3883,
+    "retention_rate": 0.6425,
+    "earnings_signal": 55563,
+    "debt_signal": 21500,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "california-state-polytechnic-university-pomona",
+    "graduation_rate": 0.676,
+    "retention_rate": 0.8738,
+    "earnings_signal": 71902,
+    "debt_signal": 16000,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  },
+  {
+    "institution_id": "florida-agricultural-and-mechanical-university",
+    "graduation_rate": 0.526,
+    "retention_rate": 0.8918,
+    "earnings_signal": 44349,
+    "debt_signal": 23548,
+    "scorecard_year": "latest",
+    "limitations_note": "College Scorecard outcomes are broad institution-level measures and are not program-specific or international-student guarantees."
+  }
+]
