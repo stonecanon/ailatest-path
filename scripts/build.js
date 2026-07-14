@@ -265,8 +265,8 @@ function indexPage() {
   <section class="search-shell">
     <div class="intro">
       <p class="eyebrow" data-i18n="eyebrow">U.S. school database</p>
-      <h1 data-i18n="homeTitle">Compare U.S. colleges by cost, legitimacy checks, programs, and graduation outcomes.</h1>
-      <p data-i18n="homeIntro">Use the filters to build a shortlist, then open each school page to confirm current tuition, F-1 eligibility, admissions requirements, and program details.</p>
+      <h1 data-i18n="homeTitle">Compare U.S. colleges.</h1>
+      <p data-i18n="homeIntro">Compare cost and verify school legitimacy before you apply.</p>
     </div>
     <form class="filters" id="filters">
       <label>

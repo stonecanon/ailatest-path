@@ -8,6 +8,7 @@
     "check": "node scripts/check.js",
     "build": "node scripts/build.js",
     "dev": "node scripts/dev.js",
+    "deploy:domain": "npx --yes wrangler deploy --config wrangler.domain.jsonc",
     "import:scorecard": "node scripts/import-scorecard.js",
     "import:ipeds": "node scripts/not-implemented.js import:ipeds",
     "import:dapip": "node scripts/not-implemented.js import:dapip",

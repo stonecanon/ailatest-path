@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ailatest-path-domain",
+  "main": "src/domain-proxy.js",
+  "compatibility_date": "2026-07-14",
+  "routes": [
+    {
+      "pattern": "path.ailatest.org",
+      "custom_domain": true
+    }
+  ]
+}
