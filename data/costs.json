@@ -616,5 +616,2189 @@
       "https://collegescorecard.ed.gov/school/?133650"
     ],
     "verification_status": "scorecard_screened"
+  },
+  {
+    "institution_id": "southwestern-oklahoma-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8499,
+    "living_estimate_usd": 12134,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 20633,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207865-southwestern-oklahoma-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "mississippi-valley-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 7692,
+    "living_estimate_usd": 13456,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21148,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?176044-mississippi-valley-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "louisiana-state-university-shreveport",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 7518,
+    "living_estimate_usd": 14022,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21540,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159416-louisiana-state-university-shreveport"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "mississippi-university-for-women",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8492,
+    "living_estimate_usd": 13072,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21564,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?176035-mississippi-university-for-women"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "delta-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8605,
+    "living_estimate_usd": 13231,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21836,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?175616-delta-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northwestern-oklahoma-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11664,
+    "living_estimate_usd": 10220,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 21884,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207306-northwestern-oklahoma-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "eastern-new-mexico-university-main-campus",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 9174,
+    "living_estimate_usd": 12946,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22120,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?187648-eastern-new-mexico-university-main-campus"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "dickinson-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 9118,
+    "living_estimate_usd": 13064,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22182,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?200059-dickinson-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "chadron-state-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8290,
+    "living_estimate_usd": 14484,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22774,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?180948-chadron-state-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "wayne-state-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8216,
+    "living_estimate_usd": 14642,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 22858,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?181783-wayne-state-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-guam",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11414,
+    "living_estimate_usd": 11783,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23197,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240754-university-of-guam"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "peru-state-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8640,
+    "living_estimate_usd": 14964,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 23604,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?181534-peru-state-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-north-carolina-at-pembroke",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 7648,
+    "living_estimate_usd": 16358,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 24006,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?199281-university-of-north-carolina-at-pembroke"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "fayetteville-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8353,
+    "living_estimate_usd": 15949,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 24302,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?198543-fayetteville-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "west-texas-a-m-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10996,
+    "living_estimate_usd": 13778,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 24774,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?229814-west-texas-a-m-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "henderson-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10620,
+    "living_estimate_usd": 14500,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25120,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?107071-henderson-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "mcneese-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 9989,
+    "living_estimate_usd": 15144,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25133,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159717-mcneese-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "nicholls-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 9242,
+    "living_estimate_usd": 15912,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25154,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159966-nicholls-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "saint-cloud-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10245,
+    "living_estimate_usd": 15096,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25341,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?174783-saint-cloud-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "western-carolina-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8630,
+    "living_estimate_usd": 16854,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25484,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?200004-western-carolina-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "alcorn-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 8785,
+    "living_estimate_usd": 16704,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25489,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?175342-alcorn-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "minnesota-state-university-moorhead",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10428,
+    "living_estimate_usd": 15494,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 25922,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?174358-minnesota-state-university-moorhead"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "central-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10058,
+    "living_estimate_usd": 16526,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 26584,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?201690-central-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "kentucky-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13658,
+    "living_estimate_usd": 13186,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 26844,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?157058-kentucky-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "new-mexico-highlands-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12336,
+    "living_estimate_usd": 14616,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 26952,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?187897-new-mexico-highlands-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "elizabeth-city-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 10536,
+    "living_estimate_usd": 16486,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 27022,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?198507-elizabeth-city-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northern-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11947,
+    "living_estimate_usd": 15100,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 27047,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219259-northern-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "south-dakota-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12809,
+    "living_estimate_usd": 14676,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 27485,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219356-south-dakota-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "youngstown-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11473,
+    "living_estimate_usd": 16230,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 27703,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?206695-youngstown-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-south-dakota",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12942,
+    "living_estimate_usd": 14856,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 27798,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219471-university-of-south-dakota"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-arkansas-university-main-campus",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15690,
+    "living_estimate_usd": 12411,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28101,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?107983-southern-arkansas-university-main-campus"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "midwestern-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12530,
+    "living_estimate_usd": 15624,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28154,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?226833-midwestern-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "governors-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12004,
+    "living_estimate_usd": 16236,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28240,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?145336-governors-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-southern-mississippi",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11998,
+    "living_estimate_usd": 16420,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28418,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?176372-university-of-southern-mississippi"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "black-hills-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11866,
+    "living_estimate_usd": 16660,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28526,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219046-black-hills-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "the-university-of-tennessee-martin",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16600,
+    "living_estimate_usd": 12044,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28644,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?221768-the-university-of-tennessee-martin"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "south-dakota-school-of-mines-and-technology",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14900,
+    "living_estimate_usd": 13800,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28700,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219347-south-dakota-school-of-mines-and-technology"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-superior",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16726,
+    "living_estimate_usd": 11976,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28702,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240426-university-of-wisconsin-superior"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "louisiana-state-university-at-alexandria",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14650,
+    "living_estimate_usd": 14098,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28748,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159382-louisiana-state-university-at-alexandria"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "chicago-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12754,
+    "living_estimate_usd": 16050,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28804,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?144005-chicago-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-minnesota-crookston",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13288,
+    "living_estimate_usd": 15524,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 28812,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?174075-university-of-minnesota-crookston"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southeastern-oklahoma-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16740,
+    "living_estimate_usd": 12260,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29000,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207847-southeastern-oklahoma-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "glenville-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11354,
+    "living_estimate_usd": 17886,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29240,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237385-glenville-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "purdue-university-northwest",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16094,
+    "living_estimate_usd": 13407,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29501,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?490805-purdue-university-northwest"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "east-tennessee-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14522,
+    "living_estimate_usd": 15054,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29576,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?220075-east-tennessee-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "western-new-mexico-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14342,
+    "living_estimate_usd": 15440,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29782,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?188304-western-new-mexico-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-university-and-a-m-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17272,
+    "living_estimate_usd": 12518,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29790,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?160621-southern-university-and-a-m-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-new-orleans",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14008,
+    "living_estimate_usd": 15792,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29800,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159939-university-of-new-orleans"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-river-falls",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17470,
+    "living_estimate_usd": 12482,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 29952,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240471-university-of-wisconsin-river-falls"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-maine-at-presque-isle",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14862,
+    "living_estimate_usd": 15210,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30072,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?161341-university-of-maine-at-presque-isle"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "slippery-rock-university-of-pennsylvania",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14676,
+    "living_estimate_usd": 15402,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30078,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?216038-slippery-rock-university-of-pennsylvania"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-green-bay",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17288,
+    "living_estimate_usd": 12792,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30080,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240277-university-of-wisconsin-green-bay"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-illinois-university-carbondale",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13334,
+    "living_estimate_usd": 16841,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30175,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?149222-southern-illinois-university-carbondale"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "north-dakota-state-university-main-campus",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15764,
+    "living_estimate_usd": 14428,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30192,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?200332-north-dakota-state-university-main-campus"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "middle-georgia-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16390,
+    "living_estimate_usd": 13850,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30240,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?482158-middle-georgia-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-oshkosh",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16446,
+    "living_estimate_usd": 13910,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30356,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240365-university-of-wisconsin-oshkosh"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "morehead-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14980,
+    "living_estimate_usd": 15494,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30474,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?157386-morehead-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "coppin-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14024,
+    "living_estimate_usd": 16506,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30530,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?162283-coppin-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "cameron-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16515,
+    "living_estimate_usd": 14054,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30569,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?206914-cameron-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "arkansas-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14522,
+    "living_estimate_usd": 16050,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30572,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?106458-arkansas-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-parkside",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17429,
+    "living_estimate_usd": 13250,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30679,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240374-university-of-wisconsin-parkside"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "missouri-southern-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17080,
+    "living_estimate_usd": 13619,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30699,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?178341-missouri-southern-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "ferris-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14778,
+    "living_estimate_usd": 15962,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30740,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?169910-ferris-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "rogers-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16410,
+    "living_estimate_usd": 14382,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30792,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207661-rogers-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "jackson-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 11965,
+    "living_estimate_usd": 18841,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30806,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?175856-jackson-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "lake-superior-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14890,
+    "living_estimate_usd": 15959,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30849,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?170639-lake-superior-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "east-central-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17842,
+    "living_estimate_usd": 13016,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30858,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207041-east-central-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "emporia-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15419,
+    "living_estimate_usd": 15450,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30869,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?155025-emporia-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "louisiana-tech-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16866,
+    "living_estimate_usd": 14118,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 30984,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159647-louisiana-tech-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "western-illinois-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15264,
+    "living_estimate_usd": 15820,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31084,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?149772-western-illinois-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-memphis",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15384,
+    "living_estimate_usd": 15842,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31226,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?220862-university-of-memphis"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-whitewater",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18716,
+    "living_estimate_usd": 12590,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31306,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240189-university-of-wisconsin-whitewater"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "fort-hays-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17741,
+    "living_estimate_usd": 13620,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31361,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?155061-fort-hays-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-north-dakota",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15570,
+    "living_estimate_usd": 15890,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31460,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?200280-university-of-north-dakota"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "winona-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17308,
+    "living_estimate_usd": 14154,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31462,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?175272-winona-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-central-arkansas",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18023,
+    "living_estimate_usd": 13610,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31633,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?106704-university-of-central-arkansas"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "cuny-hunter-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15332,
+    "living_estimate_usd": 16332,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31664,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?190594-cuny-hunter-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-stevens-point",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18508,
+    "living_estimate_usd": 13300,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31808,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240480-university-of-wisconsin-stevens-point"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "central-michigan-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14760,
+    "living_estimate_usd": 17064,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31824,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?169248-central-michigan-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northern-illinois-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13248,
+    "living_estimate_usd": 18660,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31908,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?147703-northern-illinois-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-illinois-university-edwardsville",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 12922,
+    "living_estimate_usd": 18990,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31912,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?149231-southern-illinois-university-edwardsville"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-nebraska-at-kearney",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15284,
+    "living_estimate_usd": 16698,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31982,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?181215-university-of-nebraska-at-kearney"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-platteville",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17603,
+    "living_estimate_usd": 14386,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 31989,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240462-university-of-wisconsin-platteville"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "grambling-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16706,
+    "living_estimate_usd": 15490,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32196,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159009-grambling-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "lincoln-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17692,
+    "living_estimate_usd": 14756,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32448,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?177940-lincoln-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-the-virgin-islands",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16557,
+    "living_estimate_usd": 16000,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32557,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?243665-university-of-the-virgin-islands"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "austin-peay-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14766,
+    "living_estimate_usd": 17930,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32696,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?219602-austin-peay-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-eau-claire",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19228,
+    "living_estimate_usd": 13478,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32706,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240268-university-of-wisconsin-eau-claire"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-la-crosse",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19517,
+    "living_estimate_usd": 13202,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32719,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240329-university-of-wisconsin-la-crosse"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "texas-a-m-university-victoria",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16989,
+    "living_estimate_usd": 15746,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32735,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?225502-texas-a-m-university-victoria"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "winston-salem-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16782,
+    "living_estimate_usd": 15984,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32766,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?199999-winston-salem-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-wisconsin-stout",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19265,
+    "living_estimate_usd": 13508,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32773,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?240417-university-of-wisconsin-stout"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-university-at-new-orleans",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16954,
+    "living_estimate_usd": 15837,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32791,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?160630-southern-university-at-new-orleans"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northeastern-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17290,
+    "living_estimate_usd": 15620,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32910,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?207263-northeastern-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "eastern-illinois-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16217,
+    "living_estimate_usd": 16782,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 32999,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?144892-eastern-illinois-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "west-virginia-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14990,
+    "living_estimate_usd": 18022,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33012,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237899-west-virginia-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "sul-ross-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17672,
+    "living_estimate_usd": 15392,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33064,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?228501-sul-ross-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "pennsylvania-western-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16054,
+    "living_estimate_usd": 17190,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33244,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?498571-pennsylvania-western-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "tennessee-technological-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15576,
+    "living_estimate_usd": 17802,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33378,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?221847-tennessee-technological-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "tarleton-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18142,
+    "living_estimate_usd": 15420,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33562,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?228529-tarleton-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "georgia-gwinnett-college",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13844,
+    "living_estimate_usd": 19720,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33564,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?447689-georgia-gwinnett-college"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "lamar-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18745,
+    "living_estimate_usd": 14964,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33709,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?226091-lamar-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "georgia-southern-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17734,
+    "living_estimate_usd": 15992,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33726,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?139931-georgia-southern-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-north-georgia",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16503,
+    "living_estimate_usd": 17270,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33773,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?482680-university-of-north-georgia"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "shippensburg-university-of-pennsylvania",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15974,
+    "living_estimate_usd": 17840,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33814,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?216010-shippensburg-university-of-pennsylvania"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-central-missouri",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18600,
+    "living_estimate_usd": 15240,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33840,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?176965-university-of-central-missouri"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-central-oklahoma",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19704,
+    "living_estimate_usd": 14200,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33904,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?206941-university-of-central-oklahoma"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "suny-college-of-technology-at-canton",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 13572,
+    "living_estimate_usd": 20340,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 33912,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?196015-suny-college-of-technology-at-canton"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "north-carolina-a-t-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20673,
+    "living_estimate_usd": 13332,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34005,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?199102-north-carolina-a-t-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "the-university-of-texas-rio-grande-valley",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19827,
+    "living_estimate_usd": 14228,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34055,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?227368-the-university-of-texas-rio-grande-valley"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "indiana-university-of-pennsylvania",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16297,
+    "living_estimate_usd": 17786,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34083,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?213020-indiana-university-of-pennsylvania"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northwest-missouri-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17324,
+    "living_estimate_usd": 16782,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34106,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?178624-northwest-missouri-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "central-connecticut-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16550,
+    "living_estimate_usd": 17586,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34136,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?128771-central-connecticut-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "truman-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18566,
+    "living_estimate_usd": 15628,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34194,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?178615-truman-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "kutztown-university-of-pennsylvania",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16068,
+    "living_estimate_usd": 18174,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34242,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?213349-kutztown-university-of-pennsylvania"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "missouri-state-university-springfield",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18770,
+    "living_estimate_usd": 15506,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34276,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?179566-missouri-state-university-springfield"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "shawnee-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17358,
+    "living_estimate_usd": 17002,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34360,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?205443-shawnee-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "bluefield-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18376,
+    "living_estimate_usd": 16012,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34388,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237215-bluefield-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "eastern-michigan-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 16240,
+    "living_estimate_usd": 18152,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34392,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?169798-eastern-michigan-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "pittsburg-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19744,
+    "living_estimate_usd": 14734,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34478,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?155681-pittsburg-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "alabama-a-m-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18634,
+    "living_estimate_usd": 15902,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34536,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?100654-alabama-a-m-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "west-liberty-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17442,
+    "living_estimate_usd": 17228,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34670,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237932-west-liberty-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "the-university-of-montana-western",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20130,
+    "living_estimate_usd": 14546,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34676,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?180692-the-university-of-montana-western"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "texas-a-m-international-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19454,
+    "living_estimate_usd": 15326,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34780,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?226152-texas-a-m-international-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "texas-woman-s-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18480,
+    "living_estimate_usd": 16326,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34806,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?229179-texas-woman-s-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-south-carolina-aiken",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21218,
+    "living_estimate_usd": 13682,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34900,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?218645-university-of-south-carolina-aiken"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southern-utah-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21192,
+    "living_estimate_usd": 13736,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34928,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?230603-southern-utah-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "angelo-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18300,
+    "living_estimate_usd": 16640,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34940,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?222831-angelo-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-south-alabama",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19092,
+    "living_estimate_usd": 15866,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 34958,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?102094-university-of-south-alabama"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "northwestern-state-university-of-louisiana",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19652,
+    "living_estimate_usd": 15426,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35078,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?160038-northwestern-state-university-of-louisiana"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "fairmont-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18924,
+    "living_estimate_usd": 16156,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35080,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237367-fairmont-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-west-georgia",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17800,
+    "living_estimate_usd": 17282,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35082,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?141334-university-of-west-georgia"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "east-stroudsburg-university-of-pennsylvania",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19502,
+    "living_estimate_usd": 15664,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35166,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?212115-east-stroudsburg-university-of-pennsylvania"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "south-carolina-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21750,
+    "living_estimate_usd": 13500,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35250,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?218733-south-carolina-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "sam-houston-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19068,
+    "living_estimate_usd": 16220,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35288,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?227881-sam-houston-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "murray-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19836,
+    "living_estimate_usd": 15612,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35448,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?157401-murray-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "francis-marion-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21544,
+    "living_estimate_usd": 13932,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35476,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?218061-francis-marion-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "lincoln-university-213598",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19384,
+    "living_estimate_usd": 16116,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35500,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?213598-lincoln-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "kennesaw-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17736,
+    "living_estimate_usd": 17787,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35523,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?486840-kennesaw-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "southeastern-louisiana-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20851,
+    "living_estimate_usd": 14740,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35591,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?160612-southeastern-louisiana-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "the-university-of-tennessee-chattanooga",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18512,
+    "living_estimate_usd": 17104,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35616,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?221740-the-university-of-tennessee-chattanooga"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "western-michigan-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19034,
+    "living_estimate_usd": 16674,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35708,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?172699-western-michigan-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-minnesota-duluth",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20130,
+    "living_estimate_usd": 15610,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35740,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?174233-university-of-minnesota-duluth"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "new-jersey-city-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 14460,
+    "living_estimate_usd": 21344,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35804,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?185129-new-jersey-city-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "minnesota-state-university-mankato",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18942,
+    "living_estimate_usd": 16920,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35862,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?173920-minnesota-state-university-mankato"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-maryland-eastern-shore",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 20122,
+    "living_estimate_usd": 15851,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 35973,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?163338-university-of-maryland-eastern-shore"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-northern-iowa",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21712,
+    "living_estimate_usd": 14486,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36198,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?154095-university-of-northern-iowa"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "adams-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21944,
+    "living_estimate_usd": 14320,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36264,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?126182-adams-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-louisiana-at-monroe",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21290,
+    "living_estimate_usd": 15054,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36344,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?159993-university-of-louisiana-at-monroe"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "university-of-north-texas-at-dallas",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 21894,
+    "living_estimate_usd": 14454,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36348,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?484905-university-of-north-texas-at-dallas"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "shepherd-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19082,
+    "living_estimate_usd": 17416,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36498,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?237792-shepherd-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "worcester-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 17866,
+    "living_estimate_usd": 18807,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36673,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?168430-worcester-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "bowie-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 19938,
+    "living_estimate_usd": 16741,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36679,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?162007-bowie-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "suny-brockport",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 15822,
+    "living_estimate_usd": 20918,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36740,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?196121-suny-brockport"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "florida-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18786,
+    "living_estimate_usd": 17974,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36760,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?134097-florida-state-university"
+    ],
+    "verification_status": "screened"
+  },
+  {
+    "institution_id": "westfield-state-university",
+    "year": "latest Scorecard release",
+    "degree_level": "undergraduate",
+    "tuition_fees_usd": 18259,
+    "living_estimate_usd": 18518,
+    "insurance_usd": null,
+    "total_annual_cost_usd": 36777,
+    "cost_basis": "Screening estimate: College Scorecard out-of-state tuition plus on-campus room and board, with a $4,500 allowance for books and other expenses. Confirm the international student budget on the school website.",
+    "source_urls": [
+      "https://collegescorecard.ed.gov/school/?168263-westfield-state-university"
+    ],
+    "verification_status": "screened"
   }
 ]

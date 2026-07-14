@@ -3,7 +3,10 @@ const cards = document.getElementById("cards");
 const resultCount = document.getElementById("resultCount");
 const maxCost = document.getElementById("maxCost");
 const maxCostText = document.getElementById("maxCostText");
+const loadMore = document.getElementById("loadMore");
 const controls = ["query", "maxCost", "degree", "state", "stem", "verifiedOnly"].map((id) => document.getElementById(id));
+const PAGE_SIZE = 48;
+let visibleLimit = PAGE_SIZE;
 
 const labelMaps = {
   zh: {
@@ -103,7 +106,8 @@ function render() {
   });
 
   resultCount.textContent = language() === "zh" ? `${filtered.length} 所学校` : `${filtered.length} school${filtered.length === 1 ? "" : "s"}`;
-  cards.innerHTML = filtered.map((school) => `
+  const visible = filtered.slice(0, visibleLimit);
+  cards.innerHTML = visible.map((school) => `
     <article class="school-card">
       <div class="card-head">
         <div class="school-title">
@@ -133,12 +137,21 @@ function render() {
       </div>
     </article>
   `).join("") || `<p class="empty">${language() === "zh" ? "没有学校匹配当前筛选。" : "No schools match the current filters."}</p>`;
+  loadMore.hidden = visible.length >= filtered.length;
+  loadMore.textContent = language() === "zh"
+    ? `显示更多（还有 ${filtered.length - visible.length} 所）`
+    : `Show more (${filtered.length - visible.length} remaining)`;
 }
 
 for (const control of controls) {
-  control.addEventListener("input", render);
-  control.addEventListener("change", render);
+  control.addEventListener("input", () => { visibleLimit = PAGE_SIZE; render(); });
+  control.addEventListener("change", () => { visibleLimit = PAGE_SIZE; render(); });
 }
+
+loadMore.addEventListener("click", () => {
+  visibleLimit += PAGE_SIZE;
+  render();
+});
 
 window.addEventListener("path-language-change", render);
 render();

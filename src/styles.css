@@ -183,6 +183,23 @@ input[type="range"] {
   padding-bottom: 30px;
 }
 
+.load-more {
+  min-height: 48px;
+  margin: 0 auto 40px;
+  padding: 10px 20px;
+  border: 1px solid var(--brand);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--brand-dark);
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.load-more:hover { background: #e6f4f1; }
+.load-more[hidden] { display: none; }
+
 .school-card,
 .record,
 .evidence-grid article {
@@ -445,6 +462,12 @@ input[type="range"] {
 
 .footer p { margin: 4px 0; }
 .contact-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px; }
+.contact-matrix { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:16px; }
+.contact-channel { min-width:0; padding:18px; border:1px solid var(--line); border-radius:8px; background:var(--panel); }
+.contact-channel h3,.contact-channel p { margin:0 0 10px; }
+.contact-channel p { color:var(--muted); }
+.contact-channel a { display:block; aspect-ratio:1; padding:10px; background:#fff; border:1px solid var(--line); }
+.contact-channel img { display:block; width:100%; height:100%; object-fit:contain; }
 a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible { outline:3px solid var(--brand); outline-offset:3px; }
 
 .empty {
@@ -469,6 +492,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible { 
     position: static;
   }
   .contact-grid { grid-template-columns:1fr; }
+  .contact-matrix { grid-template-columns:1fr; }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -1146,5 +1146,4061 @@
       "scorecard": "https://collegescorecard.ed.gov/school/?133650"
     },
     "verified_at": "2026-07-07"
+  },
+  {
+    "id": "southwestern-oklahoma-state-university",
+    "unitid": 207865,
+    "opeid": null,
+    "name": "Southwestern Oklahoma State University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Weatherford",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.swosu.edu/",
+    "apply_url": "https://www.swosu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207865",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southwestern%20Oklahoma%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207865-southwestern-oklahoma-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "mississippi-valley-state-university",
+    "unitid": 176044,
+    "opeid": null,
+    "name": "Mississippi Valley State University",
+    "country": "United States",
+    "state": "MS",
+    "city": "Itta Bena",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.mvsu.edu/",
+    "apply_url": "https://www.mvsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 176044",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Mississippi%20Valley%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?176044-mississippi-valley-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "louisiana-state-university-shreveport",
+    "unitid": 159416,
+    "opeid": null,
+    "name": "Louisiana State University-Shreveport",
+    "country": "United States",
+    "state": "LA",
+    "city": "Shreveport",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lsus.edu/",
+    "apply_url": "https://www.lsus.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159416",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Louisiana%20State%20University-Shreveport",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159416-louisiana-state-university-shreveport"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "mississippi-university-for-women",
+    "unitid": 176035,
+    "opeid": null,
+    "name": "Mississippi University for Women",
+    "country": "United States",
+    "state": "MS",
+    "city": "Columbus",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.muw.edu/",
+    "apply_url": "https://www.muw.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 176035",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Mississippi%20University%20for%20Women",
+      "scorecard": "https://collegescorecard.ed.gov/school/?176035-mississippi-university-for-women"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "delta-state-university",
+    "unitid": 175616,
+    "opeid": null,
+    "name": "Delta State University",
+    "country": "United States",
+    "state": "MS",
+    "city": "Cleveland",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.deltastate.edu/",
+    "apply_url": "https://www.deltastate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 175616",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Delta%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?175616-delta-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northwestern-oklahoma-state-university",
+    "unitid": 207306,
+    "opeid": null,
+    "name": "Northwestern Oklahoma State University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Alva",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nwosu.edu/",
+    "apply_url": "https://www.nwosu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207306",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northwestern%20Oklahoma%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207306-northwestern-oklahoma-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "eastern-new-mexico-university-main-campus",
+    "unitid": 187648,
+    "opeid": null,
+    "name": "Eastern New Mexico University-Main Campus",
+    "country": "United States",
+    "state": "NM",
+    "city": "Portales",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.enmu.edu/",
+    "apply_url": "https://www.enmu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 187648",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Eastern%20New%20Mexico%20University-Main%20Campus",
+      "scorecard": "https://collegescorecard.ed.gov/school/?187648-eastern-new-mexico-university-main-campus"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "dickinson-state-university",
+    "unitid": 200059,
+    "opeid": null,
+    "name": "Dickinson State University",
+    "country": "United States",
+    "state": "ND",
+    "city": "Dickinson",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.dickinsonstate.edu/",
+    "apply_url": "https://www.dickinsonstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 200059",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Dickinson%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?200059-dickinson-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "chadron-state-college",
+    "unitid": 180948,
+    "opeid": null,
+    "name": "Chadron State College",
+    "country": "United States",
+    "state": "NE",
+    "city": "Chadron",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.csc.edu/",
+    "apply_url": "https://www.csc.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 180948",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Chadron%20State%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?180948-chadron-state-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "wayne-state-college",
+    "unitid": 181783,
+    "opeid": null,
+    "name": "Wayne State College",
+    "country": "United States",
+    "state": "NE",
+    "city": "Wayne",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wsc.edu/",
+    "apply_url": "https://www.wsc.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 181783",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Wayne%20State%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?181783-wayne-state-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-guam",
+    "unitid": 240754,
+    "opeid": null,
+    "name": "University of Guam",
+    "country": "United States",
+    "state": "GU",
+    "city": "Mangilao",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uog.edu/",
+    "apply_url": "https://www.uog.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240754",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Guam",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240754-university-of-guam"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "peru-state-college",
+    "unitid": 181534,
+    "opeid": null,
+    "name": "Peru State College",
+    "country": "United States",
+    "state": "NE",
+    "city": "Peru",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.peru.edu/",
+    "apply_url": "https://www.peru.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 181534",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Peru%20State%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?181534-peru-state-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-north-carolina-at-pembroke",
+    "unitid": 199281,
+    "opeid": null,
+    "name": "University of North Carolina at Pembroke",
+    "country": "United States",
+    "state": "NC",
+    "city": "Pembroke",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uncp.edu/",
+    "apply_url": "https://www.uncp.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 199281",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Carolina%20at%20Pembroke",
+      "scorecard": "https://collegescorecard.ed.gov/school/?199281-university-of-north-carolina-at-pembroke"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "fayetteville-state-university",
+    "unitid": 198543,
+    "opeid": null,
+    "name": "Fayetteville State University",
+    "country": "United States",
+    "state": "NC",
+    "city": "Fayetteville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uncfsu.edu/",
+    "apply_url": "https://www.uncfsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 198543",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Fayetteville%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?198543-fayetteville-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "west-texas-a-m-university",
+    "unitid": 229814,
+    "opeid": null,
+    "name": "West Texas A & M University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Canyon",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wtamu.edu/",
+    "apply_url": "https://www.wtamu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 229814",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=West%20Texas%20A%20%26%20M%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?229814-west-texas-a-m-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "henderson-state-university",
+    "unitid": 107071,
+    "opeid": null,
+    "name": "Henderson State University",
+    "country": "United States",
+    "state": "AR",
+    "city": "Arkadelphia",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.hsu.edu/",
+    "apply_url": "https://www.hsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 107071",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Henderson%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?107071-henderson-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "mcneese-state-university",
+    "unitid": 159717,
+    "opeid": null,
+    "name": "McNeese State University",
+    "country": "United States",
+    "state": "LA",
+    "city": "Lake Charles",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.mcneese.edu/",
+    "apply_url": "https://www.mcneese.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159717",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=McNeese%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159717-mcneese-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "nicholls-state-university",
+    "unitid": 159966,
+    "opeid": null,
+    "name": "Nicholls State University",
+    "country": "United States",
+    "state": "LA",
+    "city": "Thibodaux",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nicholls.edu/",
+    "apply_url": "https://www.nicholls.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159966",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Nicholls%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159966-nicholls-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "saint-cloud-state-university",
+    "unitid": 174783,
+    "opeid": null,
+    "name": "Saint Cloud State University",
+    "country": "United States",
+    "state": "MN",
+    "city": "Saint Cloud",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.stcloudstate.edu/",
+    "apply_url": "https://www.stcloudstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 174783",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Saint%20Cloud%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?174783-saint-cloud-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "western-carolina-university",
+    "unitid": 200004,
+    "opeid": null,
+    "name": "Western Carolina University",
+    "country": "United States",
+    "state": "NC",
+    "city": "Cullowhee",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wcu.edu/",
+    "apply_url": "https://www.wcu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 200004",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Western%20Carolina%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?200004-western-carolina-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "alcorn-state-university",
+    "unitid": 175342,
+    "opeid": null,
+    "name": "Alcorn State University",
+    "country": "United States",
+    "state": "MS",
+    "city": "Alcorn State",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.alcorn.edu/",
+    "apply_url": "https://www.alcorn.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 175342",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Alcorn%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?175342-alcorn-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "minnesota-state-university-moorhead",
+    "unitid": 174358,
+    "opeid": null,
+    "name": "Minnesota State University Moorhead",
+    "country": "United States",
+    "state": "MN",
+    "city": "Moorhead",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.mnstate.edu/",
+    "apply_url": "https://www.mnstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 174358",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Minnesota%20State%20University%20Moorhead",
+      "scorecard": "https://collegescorecard.ed.gov/school/?174358-minnesota-state-university-moorhead"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "central-state-university",
+    "unitid": 201690,
+    "opeid": null,
+    "name": "Central State University",
+    "country": "United States",
+    "state": "OH",
+    "city": "Wilberforce",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.centralstate.edu/",
+    "apply_url": "https://www.centralstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 201690",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Central%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?201690-central-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "kentucky-state-university",
+    "unitid": 157058,
+    "opeid": null,
+    "name": "Kentucky State University",
+    "country": "United States",
+    "state": "KY",
+    "city": "Frankfort",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.kysu.edu/",
+    "apply_url": "https://www.kysu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 157058",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Kentucky%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?157058-kentucky-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "new-mexico-highlands-university",
+    "unitid": 187897,
+    "opeid": null,
+    "name": "New Mexico Highlands University",
+    "country": "United States",
+    "state": "NM",
+    "city": "Las Vegas",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nmhu.edu/",
+    "apply_url": "https://www.nmhu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 187897",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=New%20Mexico%20Highlands%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?187897-new-mexico-highlands-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "elizabeth-city-state-university",
+    "unitid": 198507,
+    "opeid": null,
+    "name": "Elizabeth City State University",
+    "country": "United States",
+    "state": "NC",
+    "city": "Elizabeth City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ecsu.edu/",
+    "apply_url": "https://www.ecsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 198507",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Elizabeth%20City%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?198507-elizabeth-city-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northern-state-university",
+    "unitid": 219259,
+    "opeid": null,
+    "name": "Northern State University",
+    "country": "United States",
+    "state": "SD",
+    "city": "Aberdeen",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://northern.edu/",
+    "apply_url": "https://northern.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219259",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northern%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219259-northern-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "south-dakota-state-university",
+    "unitid": 219356,
+    "opeid": null,
+    "name": "South Dakota State University",
+    "country": "United States",
+    "state": "SD",
+    "city": "Brookings",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.sdstate.edu/",
+    "apply_url": "https://www.sdstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219356",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=South%20Dakota%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219356-south-dakota-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "youngstown-state-university",
+    "unitid": 206695,
+    "opeid": null,
+    "name": "Youngstown State University",
+    "country": "United States",
+    "state": "OH",
+    "city": "Youngstown",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://ysu.edu/",
+    "apply_url": "https://ysu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 206695",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Youngstown%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?206695-youngstown-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-south-dakota",
+    "unitid": 219471,
+    "opeid": null,
+    "name": "University of South Dakota",
+    "country": "United States",
+    "state": "SD",
+    "city": "Vermillion",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.usd.edu/",
+    "apply_url": "https://www.usd.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219471",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20South%20Dakota",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219471-university-of-south-dakota"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-arkansas-university-main-campus",
+    "unitid": 107983,
+    "opeid": null,
+    "name": "Southern Arkansas University Main Campus",
+    "country": "United States",
+    "state": "AR",
+    "city": "Magnolia",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.saumag.edu/",
+    "apply_url": "https://www.saumag.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 107983",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20Arkansas%20University%20Main%20Campus",
+      "scorecard": "https://collegescorecard.ed.gov/school/?107983-southern-arkansas-university-main-campus"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "midwestern-state-university",
+    "unitid": 226833,
+    "opeid": null,
+    "name": "Midwestern State University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Wichita Falls",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.msutexas.edu/",
+    "apply_url": "https://www.msutexas.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 226833",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Midwestern%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?226833-midwestern-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "governors-state-university",
+    "unitid": 145336,
+    "opeid": null,
+    "name": "Governors State University",
+    "country": "United States",
+    "state": "IL",
+    "city": "University Park",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.govst.edu/",
+    "apply_url": "https://www.govst.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 145336",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Governors%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?145336-governors-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-southern-mississippi",
+    "unitid": 176372,
+    "opeid": null,
+    "name": "University of Southern Mississippi",
+    "country": "United States",
+    "state": "MS",
+    "city": "Hattiesburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.usm.edu/",
+    "apply_url": "https://www.usm.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 176372",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Southern%20Mississippi",
+      "scorecard": "https://collegescorecard.ed.gov/school/?176372-university-of-southern-mississippi"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "black-hills-state-university",
+    "unitid": 219046,
+    "opeid": null,
+    "name": "Black Hills State University",
+    "country": "United States",
+    "state": "SD",
+    "city": "Spearfish",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.bhsu.edu/",
+    "apply_url": "https://www.bhsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219046",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Black%20Hills%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219046-black-hills-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "the-university-of-tennessee-martin",
+    "unitid": 221768,
+    "opeid": null,
+    "name": "The University of Tennessee-Martin",
+    "country": "United States",
+    "state": "TN",
+    "city": "Martin",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.utm.edu/",
+    "apply_url": "https://www.utm.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 221768",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=The%20University%20of%20Tennessee-Martin",
+      "scorecard": "https://collegescorecard.ed.gov/school/?221768-the-university-of-tennessee-martin"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "south-dakota-school-of-mines-and-technology",
+    "unitid": 219347,
+    "opeid": null,
+    "name": "South Dakota School of Mines and Technology",
+    "country": "United States",
+    "state": "SD",
+    "city": "Rapid City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.sdsmt.edu/",
+    "apply_url": "https://www.sdsmt.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219347",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=South%20Dakota%20School%20of%20Mines%20and%20Technology",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219347-south-dakota-school-of-mines-and-technology"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-superior",
+    "unitid": 240426,
+    "opeid": null,
+    "name": "University of Wisconsin-Superior",
+    "country": "United States",
+    "state": "WI",
+    "city": "Superior",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwsuper.edu/",
+    "apply_url": "https://www.uwsuper.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240426",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Superior",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240426-university-of-wisconsin-superior"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "louisiana-state-university-at-alexandria",
+    "unitid": 159382,
+    "opeid": null,
+    "name": "Louisiana State University at Alexandria",
+    "country": "United States",
+    "state": "LA",
+    "city": "Alexandria",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lsua.edu/",
+    "apply_url": "https://www.lsua.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159382",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Louisiana%20State%20University%20at%20Alexandria",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159382-louisiana-state-university-at-alexandria"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "chicago-state-university",
+    "unitid": 144005,
+    "opeid": null,
+    "name": "Chicago State University",
+    "country": "United States",
+    "state": "IL",
+    "city": "Chicago",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.csu.edu/",
+    "apply_url": "https://www.csu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 144005",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Chicago%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?144005-chicago-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-minnesota-crookston",
+    "unitid": 174075,
+    "opeid": null,
+    "name": "University of Minnesota-Crookston",
+    "country": "United States",
+    "state": "MN",
+    "city": "Crookston",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://crk.umn.edu/",
+    "apply_url": "https://crk.umn.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 174075",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Minnesota-Crookston",
+      "scorecard": "https://collegescorecard.ed.gov/school/?174075-university-of-minnesota-crookston"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southeastern-oklahoma-state-university",
+    "unitid": 207847,
+    "opeid": null,
+    "name": "Southeastern Oklahoma State University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Durant",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.se.edu/",
+    "apply_url": "https://www.se.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207847",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southeastern%20Oklahoma%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207847-southeastern-oklahoma-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "glenville-state-university",
+    "unitid": 237385,
+    "opeid": null,
+    "name": "Glenville State University",
+    "country": "United States",
+    "state": "WV",
+    "city": "Glenville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.glenville.edu/",
+    "apply_url": "https://www.glenville.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237385",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Glenville%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237385-glenville-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "purdue-university-northwest",
+    "unitid": 490805,
+    "opeid": null,
+    "name": "Purdue University Northwest",
+    "country": "United States",
+    "state": "IN",
+    "city": "Hammond",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.pnw.edu/",
+    "apply_url": "https://www.pnw.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 490805",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Purdue%20University%20Northwest",
+      "scorecard": "https://collegescorecard.ed.gov/school/?490805-purdue-university-northwest"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "east-tennessee-state-university",
+    "unitid": 220075,
+    "opeid": null,
+    "name": "East Tennessee State University",
+    "country": "United States",
+    "state": "TN",
+    "city": "Johnson City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.etsu.edu/",
+    "apply_url": "https://www.etsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 220075",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=East%20Tennessee%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?220075-east-tennessee-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "western-new-mexico-university",
+    "unitid": 188304,
+    "opeid": null,
+    "name": "Western New Mexico University",
+    "country": "United States",
+    "state": "NM",
+    "city": "Silver City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://wnmu.edu/",
+    "apply_url": "https://wnmu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 188304",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Western%20New%20Mexico%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?188304-western-new-mexico-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-university-and-a-m-college",
+    "unitid": 160621,
+    "opeid": null,
+    "name": "Southern University and A & M College",
+    "country": "United States",
+    "state": "LA",
+    "city": "Baton Rouge",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.subr.edu/",
+    "apply_url": "https://www.subr.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 160621",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20University%20and%20A%20%26%20M%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?160621-southern-university-and-a-m-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-new-orleans",
+    "unitid": 159939,
+    "opeid": null,
+    "name": "University of New Orleans",
+    "country": "United States",
+    "state": "LA",
+    "city": "New Orleans",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://new.uno.edu/",
+    "apply_url": "https://new.uno.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159939",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20New%20Orleans",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159939-university-of-new-orleans"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-river-falls",
+    "unitid": 240471,
+    "opeid": null,
+    "name": "University of Wisconsin-River Falls",
+    "country": "United States",
+    "state": "WI",
+    "city": "River Falls",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwrf.edu/",
+    "apply_url": "https://www.uwrf.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240471",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-River%20Falls",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240471-university-of-wisconsin-river-falls"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-maine-at-presque-isle",
+    "unitid": 161341,
+    "opeid": null,
+    "name": "University of Maine at Presque Isle",
+    "country": "United States",
+    "state": "ME",
+    "city": "Presque Isle",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.umpi.edu/",
+    "apply_url": "https://www.umpi.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 161341",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Maine%20at%20Presque%20Isle",
+      "scorecard": "https://collegescorecard.ed.gov/school/?161341-university-of-maine-at-presque-isle"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "slippery-rock-university-of-pennsylvania",
+    "unitid": 216038,
+    "opeid": null,
+    "name": "Slippery Rock University of Pennsylvania",
+    "country": "United States",
+    "state": "PA",
+    "city": "Slippery Rock",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.sru.edu/",
+    "apply_url": "https://www.sru.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 216038",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Slippery%20Rock%20University%20of%20Pennsylvania",
+      "scorecard": "https://collegescorecard.ed.gov/school/?216038-slippery-rock-university-of-pennsylvania"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-green-bay",
+    "unitid": 240277,
+    "opeid": null,
+    "name": "University of Wisconsin-Green Bay",
+    "country": "United States",
+    "state": "WI",
+    "city": "Green Bay",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwgb.edu/",
+    "apply_url": "https://www.uwgb.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240277",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Green%20Bay",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240277-university-of-wisconsin-green-bay"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-illinois-university-carbondale",
+    "unitid": 149222,
+    "opeid": null,
+    "name": "Southern Illinois University-Carbondale",
+    "country": "United States",
+    "state": "IL",
+    "city": "Carbondale",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://siu.edu/",
+    "apply_url": "https://siu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 149222",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20Illinois%20University-Carbondale",
+      "scorecard": "https://collegescorecard.ed.gov/school/?149222-southern-illinois-university-carbondale"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "north-dakota-state-university-main-campus",
+    "unitid": 200332,
+    "opeid": null,
+    "name": "North Dakota State University-Main Campus",
+    "country": "United States",
+    "state": "ND",
+    "city": "Fargo",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ndsu.edu/",
+    "apply_url": "https://www.ndsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 200332",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=North%20Dakota%20State%20University-Main%20Campus",
+      "scorecard": "https://collegescorecard.ed.gov/school/?200332-north-dakota-state-university-main-campus"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "middle-georgia-state-university",
+    "unitid": 482158,
+    "opeid": null,
+    "name": "Middle Georgia State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Macon",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.mga.edu/",
+    "apply_url": "https://www.mga.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 482158",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Middle%20Georgia%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?482158-middle-georgia-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-oshkosh",
+    "unitid": 240365,
+    "opeid": null,
+    "name": "University of Wisconsin-Oshkosh",
+    "country": "United States",
+    "state": "WI",
+    "city": "Oshkosh",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwosh.edu/",
+    "apply_url": "https://www.uwosh.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240365",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Oshkosh",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240365-university-of-wisconsin-oshkosh"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "morehead-state-university",
+    "unitid": 157386,
+    "opeid": null,
+    "name": "Morehead State University",
+    "country": "United States",
+    "state": "KY",
+    "city": "Morehead",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.moreheadstate.edu/",
+    "apply_url": "https://www.moreheadstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 157386",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Morehead%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?157386-morehead-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "coppin-state-university",
+    "unitid": 162283,
+    "opeid": null,
+    "name": "Coppin State University",
+    "country": "United States",
+    "state": "MD",
+    "city": "Baltimore",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.coppin.edu/",
+    "apply_url": "https://www.coppin.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 162283",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Coppin%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?162283-coppin-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "cameron-university",
+    "unitid": 206914,
+    "opeid": null,
+    "name": "Cameron University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Lawton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.cameron.edu/",
+    "apply_url": "https://www.cameron.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 206914",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Cameron%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?206914-cameron-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "arkansas-state-university",
+    "unitid": 106458,
+    "opeid": null,
+    "name": "Arkansas State University",
+    "country": "United States",
+    "state": "AR",
+    "city": "Jonesboro",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.astate.edu/",
+    "apply_url": "https://www.astate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 106458",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Arkansas%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?106458-arkansas-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-parkside",
+    "unitid": 240374,
+    "opeid": null,
+    "name": "University of Wisconsin-Parkside",
+    "country": "United States",
+    "state": "WI",
+    "city": "Kenosha",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwp.edu/",
+    "apply_url": "https://www.uwp.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240374",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Parkside",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240374-university-of-wisconsin-parkside"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "missouri-southern-state-university",
+    "unitid": 178341,
+    "opeid": null,
+    "name": "Missouri Southern State University",
+    "country": "United States",
+    "state": "MO",
+    "city": "Joplin",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.mssu.edu/",
+    "apply_url": "https://www.mssu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 178341",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Missouri%20Southern%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?178341-missouri-southern-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "ferris-state-university",
+    "unitid": 169910,
+    "opeid": null,
+    "name": "Ferris State University",
+    "country": "United States",
+    "state": "MI",
+    "city": "Big Rapids",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ferris.edu/",
+    "apply_url": "https://www.ferris.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 169910",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Ferris%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?169910-ferris-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "rogers-state-university",
+    "unitid": 207661,
+    "opeid": null,
+    "name": "Rogers State University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Claremore",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.rsu.edu/",
+    "apply_url": "https://www.rsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207661",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Rogers%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207661-rogers-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "jackson-state-university",
+    "unitid": 175856,
+    "opeid": null,
+    "name": "Jackson State University",
+    "country": "United States",
+    "state": "MS",
+    "city": "Jackson",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.jsums.edu/",
+    "apply_url": "https://www.jsums.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 175856",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Jackson%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?175856-jackson-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "lake-superior-state-university",
+    "unitid": 170639,
+    "opeid": null,
+    "name": "Lake Superior State University",
+    "country": "United States",
+    "state": "MI",
+    "city": "Sault Ste Marie",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lssu.edu/",
+    "apply_url": "https://www.lssu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 170639",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Lake%20Superior%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?170639-lake-superior-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "east-central-university",
+    "unitid": 207041,
+    "opeid": null,
+    "name": "East Central University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Ada",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ecok.edu/",
+    "apply_url": "https://www.ecok.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207041",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=East%20Central%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207041-east-central-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "emporia-state-university",
+    "unitid": 155025,
+    "opeid": null,
+    "name": "Emporia State University",
+    "country": "United States",
+    "state": "KS",
+    "city": "Emporia",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.emporia.edu/",
+    "apply_url": "https://www.emporia.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 155025",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Emporia%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?155025-emporia-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "louisiana-tech-university",
+    "unitid": 159647,
+    "opeid": null,
+    "name": "Louisiana Tech University",
+    "country": "United States",
+    "state": "LA",
+    "city": "Ruston",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.latech.edu/",
+    "apply_url": "https://www.latech.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159647",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Louisiana%20Tech%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159647-louisiana-tech-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "western-illinois-university",
+    "unitid": 149772,
+    "opeid": null,
+    "name": "Western Illinois University",
+    "country": "United States",
+    "state": "IL",
+    "city": "Macomb",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wiu.edu/",
+    "apply_url": "https://www.wiu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 149772",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Western%20Illinois%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?149772-western-illinois-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-memphis",
+    "unitid": 220862,
+    "opeid": null,
+    "name": "University of Memphis",
+    "country": "United States",
+    "state": "TN",
+    "city": "Memphis",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.memphis.edu/",
+    "apply_url": "https://www.memphis.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 220862",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Memphis",
+      "scorecard": "https://collegescorecard.ed.gov/school/?220862-university-of-memphis"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-whitewater",
+    "unitid": 240189,
+    "opeid": null,
+    "name": "University of Wisconsin-Whitewater",
+    "country": "United States",
+    "state": "WI",
+    "city": "Whitewater",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uww.edu/",
+    "apply_url": "https://www.uww.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240189",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Whitewater",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240189-university-of-wisconsin-whitewater"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "fort-hays-state-university",
+    "unitid": 155061,
+    "opeid": null,
+    "name": "Fort Hays State University",
+    "country": "United States",
+    "state": "KS",
+    "city": "Hays",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.fhsu.edu/",
+    "apply_url": "https://www.fhsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 155061",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Fort%20Hays%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?155061-fort-hays-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-north-dakota",
+    "unitid": 200280,
+    "opeid": null,
+    "name": "University of North Dakota",
+    "country": "United States",
+    "state": "ND",
+    "city": "Grand Forks",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://und.edu/",
+    "apply_url": "https://und.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 200280",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Dakota",
+      "scorecard": "https://collegescorecard.ed.gov/school/?200280-university-of-north-dakota"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "winona-state-university",
+    "unitid": 175272,
+    "opeid": null,
+    "name": "Winona State University",
+    "country": "United States",
+    "state": "MN",
+    "city": "Winona",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.winona.edu/",
+    "apply_url": "https://www.winona.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 175272",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Winona%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?175272-winona-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-central-arkansas",
+    "unitid": 106704,
+    "opeid": null,
+    "name": "University of Central Arkansas",
+    "country": "United States",
+    "state": "AR",
+    "city": "Conway",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uca.edu/",
+    "apply_url": "https://www.uca.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 106704",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Central%20Arkansas",
+      "scorecard": "https://collegescorecard.ed.gov/school/?106704-university-of-central-arkansas"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "cuny-hunter-college",
+    "unitid": 190594,
+    "opeid": null,
+    "name": "CUNY Hunter College",
+    "country": "United States",
+    "state": "NY",
+    "city": "New York",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.hunter.cuny.edu/",
+    "apply_url": "https://www.hunter.cuny.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 190594",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=CUNY%20Hunter%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?190594-cuny-hunter-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-stevens-point",
+    "unitid": 240480,
+    "opeid": null,
+    "name": "University of Wisconsin-Stevens Point",
+    "country": "United States",
+    "state": "WI",
+    "city": "Stevens Point",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwsp.edu/",
+    "apply_url": "https://www.uwsp.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240480",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Stevens%20Point",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240480-university-of-wisconsin-stevens-point"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "central-michigan-university",
+    "unitid": 169248,
+    "opeid": null,
+    "name": "Central Michigan University",
+    "country": "United States",
+    "state": "MI",
+    "city": "Mount Pleasant",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.cmich.edu/",
+    "apply_url": "https://www.cmich.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 169248",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Central%20Michigan%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?169248-central-michigan-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northern-illinois-university",
+    "unitid": 147703,
+    "opeid": null,
+    "name": "Northern Illinois University",
+    "country": "United States",
+    "state": "IL",
+    "city": "Dekalb",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.niu.edu/",
+    "apply_url": "https://www.niu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 147703",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northern%20Illinois%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?147703-northern-illinois-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-illinois-university-edwardsville",
+    "unitid": 149231,
+    "opeid": null,
+    "name": "Southern Illinois University Edwardsville",
+    "country": "United States",
+    "state": "IL",
+    "city": "Edwardsville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.siue.edu/",
+    "apply_url": "https://www.siue.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 149231",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20Illinois%20University%20Edwardsville",
+      "scorecard": "https://collegescorecard.ed.gov/school/?149231-southern-illinois-university-edwardsville"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-nebraska-at-kearney",
+    "unitid": 181215,
+    "opeid": null,
+    "name": "University of Nebraska at Kearney",
+    "country": "United States",
+    "state": "NE",
+    "city": "Kearney",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.unk.edu/",
+    "apply_url": "https://www.unk.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 181215",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Nebraska%20at%20Kearney",
+      "scorecard": "https://collegescorecard.ed.gov/school/?181215-university-of-nebraska-at-kearney"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-platteville",
+    "unitid": 240462,
+    "opeid": null,
+    "name": "University of Wisconsin-Platteville",
+    "country": "United States",
+    "state": "WI",
+    "city": "Platteville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwplatt.edu/",
+    "apply_url": "https://www.uwplatt.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240462",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Platteville",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240462-university-of-wisconsin-platteville"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "grambling-state-university",
+    "unitid": 159009,
+    "opeid": null,
+    "name": "Grambling State University",
+    "country": "United States",
+    "state": "LA",
+    "city": "Grambling",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.gram.edu/",
+    "apply_url": "https://www.gram.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159009",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Grambling%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159009-grambling-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "lincoln-university",
+    "unitid": 177940,
+    "opeid": null,
+    "name": "Lincoln University",
+    "country": "United States",
+    "state": "MO",
+    "city": "Jefferson City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lincolnu.edu/",
+    "apply_url": "https://www.lincolnu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 177940",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Lincoln%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?177940-lincoln-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-the-virgin-islands",
+    "unitid": 243665,
+    "opeid": null,
+    "name": "University of the Virgin Islands",
+    "country": "United States",
+    "state": "VI",
+    "city": "Charlotte Amalie",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uvi.edu/",
+    "apply_url": "https://www.uvi.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 243665",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20the%20Virgin%20Islands",
+      "scorecard": "https://collegescorecard.ed.gov/school/?243665-university-of-the-virgin-islands"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "austin-peay-state-university",
+    "unitid": 219602,
+    "opeid": null,
+    "name": "Austin Peay State University",
+    "country": "United States",
+    "state": "TN",
+    "city": "Clarksville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.apsu.edu/",
+    "apply_url": "https://www.apsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 219602",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Austin%20Peay%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?219602-austin-peay-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-eau-claire",
+    "unitid": 240268,
+    "opeid": null,
+    "name": "University of Wisconsin-Eau Claire",
+    "country": "United States",
+    "state": "WI",
+    "city": "Eau Claire",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwec.edu/",
+    "apply_url": "https://www.uwec.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240268",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Eau%20Claire",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240268-university-of-wisconsin-eau-claire"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-la-crosse",
+    "unitid": 240329,
+    "opeid": null,
+    "name": "University of Wisconsin-La Crosse",
+    "country": "United States",
+    "state": "WI",
+    "city": "La Crosse",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwlax.edu/",
+    "apply_url": "https://www.uwlax.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240329",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-La%20Crosse",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240329-university-of-wisconsin-la-crosse"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "texas-a-m-university-victoria",
+    "unitid": 225502,
+    "opeid": null,
+    "name": "Texas A&M University-Victoria",
+    "country": "United States",
+    "state": "TX",
+    "city": "Victoria",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.tamuv.edu/",
+    "apply_url": "https://www.tamuv.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 225502",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Texas%20A%26M%20University-Victoria",
+      "scorecard": "https://collegescorecard.ed.gov/school/?225502-texas-a-m-university-victoria"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "winston-salem-state-university",
+    "unitid": 199999,
+    "opeid": null,
+    "name": "Winston-Salem State University",
+    "country": "United States",
+    "state": "NC",
+    "city": "Winston-Salem",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wssu.edu/",
+    "apply_url": "https://www.wssu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 199999",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Winston-Salem%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?199999-winston-salem-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-wisconsin-stout",
+    "unitid": 240417,
+    "opeid": null,
+    "name": "University of Wisconsin-Stout",
+    "country": "United States",
+    "state": "WI",
+    "city": "Menomonie",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uwstout.edu/",
+    "apply_url": "https://www.uwstout.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 240417",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Wisconsin-Stout",
+      "scorecard": "https://collegescorecard.ed.gov/school/?240417-university-of-wisconsin-stout"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-university-at-new-orleans",
+    "unitid": 160630,
+    "opeid": null,
+    "name": "Southern University at New Orleans",
+    "country": "United States",
+    "state": "LA",
+    "city": "New Orleans",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.suno.edu/",
+    "apply_url": "https://www.suno.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 160630",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20University%20at%20New%20Orleans",
+      "scorecard": "https://collegescorecard.ed.gov/school/?160630-southern-university-at-new-orleans"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northeastern-state-university",
+    "unitid": 207263,
+    "opeid": null,
+    "name": "Northeastern State University",
+    "country": "United States",
+    "state": "OK",
+    "city": "Tahlequah",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nsuok.edu/",
+    "apply_url": "https://www.nsuok.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 207263",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northeastern%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?207263-northeastern-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "eastern-illinois-university",
+    "unitid": 144892,
+    "opeid": null,
+    "name": "Eastern Illinois University",
+    "country": "United States",
+    "state": "IL",
+    "city": "Charleston",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.eiu.edu/",
+    "apply_url": "https://www.eiu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 144892",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Eastern%20Illinois%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?144892-eastern-illinois-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "west-virginia-state-university",
+    "unitid": 237899,
+    "opeid": null,
+    "name": "West Virginia State University",
+    "country": "United States",
+    "state": "WV",
+    "city": "Institute",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.wvstateu.edu/",
+    "apply_url": "https://www.wvstateu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237899",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=West%20Virginia%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237899-west-virginia-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "sul-ross-state-university",
+    "unitid": 228501,
+    "opeid": null,
+    "name": "Sul Ross State University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Alpine",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.sulross.edu/",
+    "apply_url": "https://www.sulross.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 228501",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Sul%20Ross%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?228501-sul-ross-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "pennsylvania-western-university",
+    "unitid": 498571,
+    "opeid": null,
+    "name": "Pennsylvania Western University",
+    "country": "United States",
+    "state": "PA",
+    "city": "California",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.pennwest.edu/",
+    "apply_url": "https://www.pennwest.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 498571",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Pennsylvania%20Western%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?498571-pennsylvania-western-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "tennessee-technological-university",
+    "unitid": 221847,
+    "opeid": null,
+    "name": "Tennessee Technological University",
+    "country": "United States",
+    "state": "TN",
+    "city": "Cookeville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.tntech.edu/",
+    "apply_url": "https://www.tntech.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 221847",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Tennessee%20Technological%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?221847-tennessee-technological-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "tarleton-state-university",
+    "unitid": 228529,
+    "opeid": null,
+    "name": "Tarleton State University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Stephenville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.tarleton.edu/",
+    "apply_url": "https://www.tarleton.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 228529",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Tarleton%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?228529-tarleton-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "georgia-gwinnett-college",
+    "unitid": 447689,
+    "opeid": null,
+    "name": "Georgia Gwinnett College",
+    "country": "United States",
+    "state": "GA",
+    "city": "Lawrenceville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ggc.edu/",
+    "apply_url": "https://www.ggc.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 447689",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Georgia%20Gwinnett%20College",
+      "scorecard": "https://collegescorecard.ed.gov/school/?447689-georgia-gwinnett-college"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "lamar-university",
+    "unitid": 226091,
+    "opeid": null,
+    "name": "Lamar University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Beaumont",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lamar.edu/",
+    "apply_url": "https://www.lamar.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 226091",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Lamar%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?226091-lamar-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "georgia-southern-university",
+    "unitid": 139931,
+    "opeid": null,
+    "name": "Georgia Southern University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Statesboro",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.georgiasouthern.edu/",
+    "apply_url": "https://www.georgiasouthern.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 139931",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Georgia%20Southern%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?139931-georgia-southern-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-north-georgia",
+    "unitid": 482680,
+    "opeid": null,
+    "name": "University of North Georgia",
+    "country": "United States",
+    "state": "GA",
+    "city": "Dahlonega",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ung.edu/",
+    "apply_url": "https://www.ung.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 482680",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Georgia",
+      "scorecard": "https://collegescorecard.ed.gov/school/?482680-university-of-north-georgia"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "shippensburg-university-of-pennsylvania",
+    "unitid": 216010,
+    "opeid": null,
+    "name": "Shippensburg University of Pennsylvania",
+    "country": "United States",
+    "state": "PA",
+    "city": "Shippensburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ship.edu/",
+    "apply_url": "https://www.ship.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 216010",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Shippensburg%20University%20of%20Pennsylvania",
+      "scorecard": "https://collegescorecard.ed.gov/school/?216010-shippensburg-university-of-pennsylvania"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-central-missouri",
+    "unitid": 176965,
+    "opeid": null,
+    "name": "University of Central Missouri",
+    "country": "United States",
+    "state": "MO",
+    "city": "Warrensburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ucmo.edu/",
+    "apply_url": "https://www.ucmo.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 176965",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Central%20Missouri",
+      "scorecard": "https://collegescorecard.ed.gov/school/?176965-university-of-central-missouri"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-central-oklahoma",
+    "unitid": 206941,
+    "opeid": null,
+    "name": "University of Central Oklahoma",
+    "country": "United States",
+    "state": "OK",
+    "city": "Edmond",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uco.edu/",
+    "apply_url": "https://www.uco.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 206941",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Central%20Oklahoma",
+      "scorecard": "https://collegescorecard.ed.gov/school/?206941-university-of-central-oklahoma"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "suny-college-of-technology-at-canton",
+    "unitid": 196015,
+    "opeid": null,
+    "name": "SUNY College of Technology at Canton",
+    "country": "United States",
+    "state": "NY",
+    "city": "Canton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.canton.edu/",
+    "apply_url": "https://www.canton.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 196015",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=SUNY%20College%20of%20Technology%20at%20Canton",
+      "scorecard": "https://collegescorecard.ed.gov/school/?196015-suny-college-of-technology-at-canton"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "north-carolina-a-t-state-university",
+    "unitid": 199102,
+    "opeid": null,
+    "name": "North Carolina A & T State University",
+    "country": "United States",
+    "state": "NC",
+    "city": "Greensboro",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ncat.edu/",
+    "apply_url": "https://www.ncat.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 199102",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=North%20Carolina%20A%20%26%20T%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?199102-north-carolina-a-t-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "the-university-of-texas-rio-grande-valley",
+    "unitid": 227368,
+    "opeid": null,
+    "name": "The University of Texas Rio Grande Valley",
+    "country": "United States",
+    "state": "TX",
+    "city": "Edinburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.utrgv.edu/",
+    "apply_url": "https://www.utrgv.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 227368",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=The%20University%20of%20Texas%20Rio%20Grande%20Valley",
+      "scorecard": "https://collegescorecard.ed.gov/school/?227368-the-university-of-texas-rio-grande-valley"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "indiana-university-of-pennsylvania",
+    "unitid": 213020,
+    "opeid": null,
+    "name": "Indiana University of Pennsylvania",
+    "country": "United States",
+    "state": "PA",
+    "city": "Indiana",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.iup.edu/",
+    "apply_url": "https://www.iup.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 213020",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Indiana%20University%20of%20Pennsylvania",
+      "scorecard": "https://collegescorecard.ed.gov/school/?213020-indiana-university-of-pennsylvania"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northwest-missouri-state-university",
+    "unitid": 178624,
+    "opeid": null,
+    "name": "Northwest Missouri State University",
+    "country": "United States",
+    "state": "MO",
+    "city": "Maryville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nwmissouri.edu/",
+    "apply_url": "https://www.nwmissouri.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 178624",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northwest%20Missouri%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?178624-northwest-missouri-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "central-connecticut-state-university",
+    "unitid": 128771,
+    "opeid": null,
+    "name": "Central Connecticut State University",
+    "country": "United States",
+    "state": "CT",
+    "city": "New Britain",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ccsu.edu/",
+    "apply_url": "https://www.ccsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 128771",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Central%20Connecticut%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?128771-central-connecticut-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "truman-state-university",
+    "unitid": 178615,
+    "opeid": null,
+    "name": "Truman State University",
+    "country": "United States",
+    "state": "MO",
+    "city": "Kirksville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.truman.edu/",
+    "apply_url": "https://www.truman.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 178615",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Truman%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?178615-truman-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "kutztown-university-of-pennsylvania",
+    "unitid": 213349,
+    "opeid": null,
+    "name": "Kutztown University of Pennsylvania",
+    "country": "United States",
+    "state": "PA",
+    "city": "Kutztown",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.kutztown.edu/",
+    "apply_url": "https://www.kutztown.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 213349",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Kutztown%20University%20of%20Pennsylvania",
+      "scorecard": "https://collegescorecard.ed.gov/school/?213349-kutztown-university-of-pennsylvania"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "missouri-state-university-springfield",
+    "unitid": 179566,
+    "opeid": null,
+    "name": "Missouri State University-Springfield",
+    "country": "United States",
+    "state": "MO",
+    "city": "Springfield",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.missouristate.edu/",
+    "apply_url": "https://www.missouristate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 179566",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Missouri%20State%20University-Springfield",
+      "scorecard": "https://collegescorecard.ed.gov/school/?179566-missouri-state-university-springfield"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "shawnee-state-university",
+    "unitid": 205443,
+    "opeid": null,
+    "name": "Shawnee State University",
+    "country": "United States",
+    "state": "OH",
+    "city": "Portsmouth",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.shawnee.edu/",
+    "apply_url": "https://www.shawnee.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 205443",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Shawnee%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?205443-shawnee-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "bluefield-state-university",
+    "unitid": 237215,
+    "opeid": null,
+    "name": "Bluefield State University",
+    "country": "United States",
+    "state": "WV",
+    "city": "Bluefield",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://bluefieldstate.edu/",
+    "apply_url": "https://bluefieldstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237215",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Bluefield%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237215-bluefield-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "eastern-michigan-university",
+    "unitid": 169798,
+    "opeid": null,
+    "name": "Eastern Michigan University",
+    "country": "United States",
+    "state": "MI",
+    "city": "Ypsilanti",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.emich.edu/",
+    "apply_url": "https://www.emich.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 169798",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Eastern%20Michigan%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?169798-eastern-michigan-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "pittsburg-state-university",
+    "unitid": 155681,
+    "opeid": null,
+    "name": "Pittsburg State University",
+    "country": "United States",
+    "state": "KS",
+    "city": "Pittsburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.pittstate.edu/",
+    "apply_url": "https://www.pittstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 155681",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Pittsburg%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?155681-pittsburg-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "alabama-a-m-university",
+    "unitid": 100654,
+    "opeid": null,
+    "name": "Alabama A & M University",
+    "country": "United States",
+    "state": "AL",
+    "city": "Normal",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.aamu.edu/",
+    "apply_url": "https://www.aamu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 100654",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Alabama%20A%20%26%20M%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?100654-alabama-a-m-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "west-liberty-university",
+    "unitid": 237932,
+    "opeid": null,
+    "name": "West Liberty University",
+    "country": "United States",
+    "state": "WV",
+    "city": "West Liberty",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.westliberty.edu/",
+    "apply_url": "https://www.westliberty.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237932",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=West%20Liberty%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237932-west-liberty-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "the-university-of-montana-western",
+    "unitid": 180692,
+    "opeid": null,
+    "name": "The University of Montana-Western",
+    "country": "United States",
+    "state": "MT",
+    "city": "Dillon",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://umwestern.edu/",
+    "apply_url": "https://umwestern.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 180692",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=The%20University%20of%20Montana-Western",
+      "scorecard": "https://collegescorecard.ed.gov/school/?180692-the-university-of-montana-western"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "texas-a-m-international-university",
+    "unitid": 226152,
+    "opeid": null,
+    "name": "Texas A & M International University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Laredo",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.tamiu.edu/",
+    "apply_url": "https://www.tamiu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 226152",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Texas%20A%20%26%20M%20International%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?226152-texas-a-m-international-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "texas-woman-s-university",
+    "unitid": 229179,
+    "opeid": null,
+    "name": "Texas Woman's University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Denton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.twu.edu/",
+    "apply_url": "https://www.twu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 229179",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Texas%20Woman's%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?229179-texas-woman-s-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-south-carolina-aiken",
+    "unitid": 218645,
+    "opeid": null,
+    "name": "University of South Carolina Aiken",
+    "country": "United States",
+    "state": "SC",
+    "city": "Aiken",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.usca.edu/",
+    "apply_url": "https://www.usca.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 218645",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20South%20Carolina%20Aiken",
+      "scorecard": "https://collegescorecard.ed.gov/school/?218645-university-of-south-carolina-aiken"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southern-utah-university",
+    "unitid": 230603,
+    "opeid": null,
+    "name": "Southern Utah University",
+    "country": "United States",
+    "state": "UT",
+    "city": "Cedar City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.suu.edu/",
+    "apply_url": "https://www.suu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 230603",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southern%20Utah%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?230603-southern-utah-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "angelo-state-university",
+    "unitid": 222831,
+    "opeid": null,
+    "name": "Angelo State University",
+    "country": "United States",
+    "state": "TX",
+    "city": "San Angelo",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.angelo.edu/",
+    "apply_url": "https://www.angelo.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 222831",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Angelo%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?222831-angelo-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-south-alabama",
+    "unitid": 102094,
+    "opeid": null,
+    "name": "University of South Alabama",
+    "country": "United States",
+    "state": "AL",
+    "city": "Mobile",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.southalabama.edu/",
+    "apply_url": "https://www.southalabama.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 102094",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20South%20Alabama",
+      "scorecard": "https://collegescorecard.ed.gov/school/?102094-university-of-south-alabama"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "northwestern-state-university-of-louisiana",
+    "unitid": 160038,
+    "opeid": null,
+    "name": "Northwestern State University of Louisiana",
+    "country": "United States",
+    "state": "LA",
+    "city": "Natchitoches",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.nsula.edu/",
+    "apply_url": "https://www.nsula.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 160038",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Northwestern%20State%20University%20of%20Louisiana",
+      "scorecard": "https://collegescorecard.ed.gov/school/?160038-northwestern-state-university-of-louisiana"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "fairmont-state-university",
+    "unitid": 237367,
+    "opeid": null,
+    "name": "Fairmont State University",
+    "country": "United States",
+    "state": "WV",
+    "city": "Fairmont",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.fairmontstate.edu/",
+    "apply_url": "https://www.fairmontstate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237367",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Fairmont%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237367-fairmont-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-west-georgia",
+    "unitid": 141334,
+    "opeid": null,
+    "name": "University of West Georgia",
+    "country": "United States",
+    "state": "GA",
+    "city": "Carrollton",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.westga.edu/",
+    "apply_url": "https://www.westga.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 141334",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20West%20Georgia",
+      "scorecard": "https://collegescorecard.ed.gov/school/?141334-university-of-west-georgia"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "east-stroudsburg-university-of-pennsylvania",
+    "unitid": 212115,
+    "opeid": null,
+    "name": "East Stroudsburg University of Pennsylvania",
+    "country": "United States",
+    "state": "PA",
+    "city": "East Stroudsburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.esu.edu/",
+    "apply_url": "https://www.esu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 212115",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=East%20Stroudsburg%20University%20of%20Pennsylvania",
+      "scorecard": "https://collegescorecard.ed.gov/school/?212115-east-stroudsburg-university-of-pennsylvania"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "south-carolina-state-university",
+    "unitid": 218733,
+    "opeid": null,
+    "name": "South Carolina State University",
+    "country": "United States",
+    "state": "SC",
+    "city": "Orangeburg",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://scsu.edu/",
+    "apply_url": "https://scsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 218733",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=South%20Carolina%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?218733-south-carolina-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "sam-houston-state-university",
+    "unitid": 227881,
+    "opeid": null,
+    "name": "Sam Houston State University",
+    "country": "United States",
+    "state": "TX",
+    "city": "Huntsville",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.shsu.edu/",
+    "apply_url": "https://www.shsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 227881",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Sam%20Houston%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?227881-sam-houston-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "murray-state-university",
+    "unitid": 157401,
+    "opeid": null,
+    "name": "Murray State University",
+    "country": "United States",
+    "state": "KY",
+    "city": "Murray",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.murraystate.edu/",
+    "apply_url": "https://www.murraystate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 157401",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Murray%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?157401-murray-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "francis-marion-university",
+    "unitid": 218061,
+    "opeid": null,
+    "name": "Francis Marion University",
+    "country": "United States",
+    "state": "SC",
+    "city": "Florence",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.fmarion.edu/",
+    "apply_url": "https://www.fmarion.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 218061",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Francis%20Marion%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?218061-francis-marion-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "lincoln-university-213598",
+    "unitid": 213598,
+    "opeid": null,
+    "name": "Lincoln University",
+    "country": "United States",
+    "state": "PA",
+    "city": "Lincoln University",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.lincoln.edu/",
+    "apply_url": "https://www.lincoln.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 213598",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Lincoln%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?213598-lincoln-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "kennesaw-state-university",
+    "unitid": 486840,
+    "opeid": null,
+    "name": "Kennesaw State University",
+    "country": "United States",
+    "state": "GA",
+    "city": "Kennesaw",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.kennesaw.edu/",
+    "apply_url": "https://www.kennesaw.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 486840",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Kennesaw%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?486840-kennesaw-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "southeastern-louisiana-university",
+    "unitid": 160612,
+    "opeid": null,
+    "name": "Southeastern Louisiana University",
+    "country": "United States",
+    "state": "LA",
+    "city": "Hammond",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.southeastern.edu/",
+    "apply_url": "https://www.southeastern.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 160612",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Southeastern%20Louisiana%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?160612-southeastern-louisiana-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "the-university-of-tennessee-chattanooga",
+    "unitid": 221740,
+    "opeid": null,
+    "name": "The University of Tennessee-Chattanooga",
+    "country": "United States",
+    "state": "TN",
+    "city": "Chattanooga",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://utc.edu/",
+    "apply_url": "https://utc.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 221740",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=The%20University%20of%20Tennessee-Chattanooga",
+      "scorecard": "https://collegescorecard.ed.gov/school/?221740-the-university-of-tennessee-chattanooga"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "western-michigan-university",
+    "unitid": 172699,
+    "opeid": null,
+    "name": "Western Michigan University",
+    "country": "United States",
+    "state": "MI",
+    "city": "Kalamazoo",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://wmich.edu/",
+    "apply_url": "https://wmich.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 172699",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Western%20Michigan%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?172699-western-michigan-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-minnesota-duluth",
+    "unitid": 174233,
+    "opeid": null,
+    "name": "University of Minnesota-Duluth",
+    "country": "United States",
+    "state": "MN",
+    "city": "Duluth",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://d.umn.edu/",
+    "apply_url": "https://d.umn.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 174233",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Minnesota-Duluth",
+      "scorecard": "https://collegescorecard.ed.gov/school/?174233-university-of-minnesota-duluth"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "new-jersey-city-university",
+    "unitid": 185129,
+    "opeid": null,
+    "name": "New Jersey City University",
+    "country": "United States",
+    "state": "NJ",
+    "city": "Jersey City",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.njcu.edu/",
+    "apply_url": "https://www.njcu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 185129",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=New%20Jersey%20City%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?185129-new-jersey-city-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "minnesota-state-university-mankato",
+    "unitid": 173920,
+    "opeid": null,
+    "name": "Minnesota State University-Mankato",
+    "country": "United States",
+    "state": "MN",
+    "city": "Mankato",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://mnsu.edu/",
+    "apply_url": "https://mnsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 173920",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Minnesota%20State%20University-Mankato",
+      "scorecard": "https://collegescorecard.ed.gov/school/?173920-minnesota-state-university-mankato"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-maryland-eastern-shore",
+    "unitid": 163338,
+    "opeid": null,
+    "name": "University of Maryland Eastern Shore",
+    "country": "United States",
+    "state": "MD",
+    "city": "Princess Anne",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://wwwcp.umes.edu/",
+    "apply_url": "https://wwwcp.umes.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 163338",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Maryland%20Eastern%20Shore",
+      "scorecard": "https://collegescorecard.ed.gov/school/?163338-university-of-maryland-eastern-shore"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-northern-iowa",
+    "unitid": 154095,
+    "opeid": null,
+    "name": "University of Northern Iowa",
+    "country": "United States",
+    "state": "IA",
+    "city": "Cedar Falls",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.uni.edu/",
+    "apply_url": "https://www.uni.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 154095",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Northern%20Iowa",
+      "scorecard": "https://collegescorecard.ed.gov/school/?154095-university-of-northern-iowa"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "adams-state-university",
+    "unitid": 126182,
+    "opeid": null,
+    "name": "Adams State University",
+    "country": "United States",
+    "state": "CO",
+    "city": "Alamosa",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.adams.edu/",
+    "apply_url": "https://www.adams.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 126182",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Adams%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?126182-adams-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-louisiana-at-monroe",
+    "unitid": 159993,
+    "opeid": null,
+    "name": "University of Louisiana at Monroe",
+    "country": "United States",
+    "state": "LA",
+    "city": "Monroe",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.ulm.edu/",
+    "apply_url": "https://www.ulm.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 159993",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20Louisiana%20at%20Monroe",
+      "scorecard": "https://collegescorecard.ed.gov/school/?159993-university-of-louisiana-at-monroe"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "university-of-north-texas-at-dallas",
+    "unitid": 484905,
+    "opeid": null,
+    "name": "University of North Texas at Dallas",
+    "country": "United States",
+    "state": "TX",
+    "city": "Dallas",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://untdallas.edu/",
+    "apply_url": "https://untdallas.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 484905",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=University%20of%20North%20Texas%20at%20Dallas",
+      "scorecard": "https://collegescorecard.ed.gov/school/?484905-university-of-north-texas-at-dallas"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "shepherd-university",
+    "unitid": 237792,
+    "opeid": null,
+    "name": "Shepherd University",
+    "country": "United States",
+    "state": "WV",
+    "city": "Shepherdstown",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.shepherd.edu/",
+    "apply_url": "https://www.shepherd.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 237792",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Shepherd%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?237792-shepherd-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "worcester-state-university",
+    "unitid": 168430,
+    "opeid": null,
+    "name": "Worcester State University",
+    "country": "United States",
+    "state": "MA",
+    "city": "Worcester",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.worcester.edu/",
+    "apply_url": "https://www.worcester.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 168430",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Worcester%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?168430-worcester-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "bowie-state-university",
+    "unitid": 162007,
+    "opeid": null,
+    "name": "Bowie State University",
+    "country": "United States",
+    "state": "MD",
+    "city": "Bowie",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.bowiestate.edu/",
+    "apply_url": "https://www.bowiestate.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 162007",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Bowie%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?162007-bowie-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "suny-brockport",
+    "unitid": 196121,
+    "opeid": null,
+    "name": "SUNY Brockport",
+    "country": "United States",
+    "state": "NY",
+    "city": "Brockport",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.brockport.edu/",
+    "apply_url": "https://www.brockport.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 196121",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=SUNY%20Brockport",
+      "scorecard": "https://collegescorecard.ed.gov/school/?196121-suny-brockport"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "florida-state-university",
+    "unitid": 134097,
+    "opeid": null,
+    "name": "Florida State University",
+    "country": "United States",
+    "state": "FL",
+    "city": "Tallahassee",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.fsu.edu/",
+    "apply_url": "https://www.fsu.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 134097",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Florida%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?134097-florida-state-university"
+    },
+    "verified_at": "2026-07-14"
+  },
+  {
+    "id": "westfield-state-university",
+    "unitid": 168263,
+    "opeid": null,
+    "name": "Westfield State University",
+    "country": "United States",
+    "state": "MA",
+    "city": "Westfield",
+    "control": "Public",
+    "level": [
+      "undergraduate"
+    ],
+    "website": "https://www.westfield.ma.edu/",
+    "apply_url": "https://www.westfield.ma.edu/",
+    "accreditation_status": "Accreditation must be confirmed in DAPIP or on the institution website",
+    "sevp_status": "F-1 eligibility and the exact campus must be confirmed in DHS School Search",
+    "public_data_status": "College Scorecard UNITID 168263",
+    "legitimacy_label": "Needs Review",
+    "source_urls": {
+      "accreditation": "https://ope.ed.gov/dapip/",
+      "dapip": "https://ope.ed.gov/dapip/",
+      "sevp": "https://studyinthestates.dhs.gov/school-search?field_school_name_value=Westfield%20State%20University",
+      "scorecard": "https://collegescorecard.ed.gov/school/?168263-westfield-state-university"
+    },
+    "verified_at": "2026-07-14"
   }
 ]
