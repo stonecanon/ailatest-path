@@ -1,5 +1,5 @@
 const PAGES_ORIGIN = 'https://ailatest-path.pages.dev';
-const ORIGIN_VERSION = '20260714-abe8bfa';
+const ORIGIN_VERSION = '20260714-school-experiences';
 
 export default {
   async fetch(request) {
