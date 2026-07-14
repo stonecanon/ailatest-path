@@ -1,4 +1,5 @@
 const PAGES_ORIGIN = 'https://ailatest-path.pages.dev';
+const ORIGIN_VERSION = '20260714-abe8bfa';
 
 export default {
   async fetch(request) {
@@ -11,6 +12,7 @@ export default {
 
     const incomingUrl = new URL(request.url);
     const originUrl = new URL(incomingUrl.pathname + incomingUrl.search, PAGES_ORIGIN);
+    originUrl.searchParams.set('__origin_version', ORIGIN_VERSION);
     const originRequest = new Request(originUrl, request);
     const response = await fetch(originRequest);
 
