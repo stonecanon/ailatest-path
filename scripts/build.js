@@ -292,7 +292,13 @@ function indexPage() {
     <div class="intro">
       <p class="eyebrow" data-i18n="eyebrow">U.S. school database</p>
       <h1 data-i18n="homeTitle">Compare U.S. colleges.</h1>
-      <p data-i18n="homeIntro">Compare cost and verify school legitimacy before you apply.</p>
+      <p class="intro-copy" data-i18n="homeIntro">Explore 200 public U.S. colleges by annual cost, accreditation and F-1 evidence, outcomes, and student experience links.</p>
+      <ol class="intro-guide" aria-label="What you can compare">
+        <li><span>01</span><div><strong data-i18n="introCostTitle">Cost</strong><p data-i18n="introCostText">Tuition, living estimate, and annual total</p></div></li>
+        <li><span>02</span><div><strong data-i18n="introEvidenceTitle">Legitimacy</strong><p data-i18n="introEvidenceText">Accreditation, DAPIP, and SEVP/F-1 evidence</p></div></li>
+        <li><span>03</span><div><strong data-i18n="introExperienceTitle">Student experience</strong><p data-i18n="introExperienceText">School-specific searches across five social platforms</p></div></li>
+      </ol>
+      <p class="intro-footnote" data-i18n="introFootnote">Filter first, then open a school page to check sources and student experiences.</p>
     </div>
     <form class="filters" id="filters">
       <label>
