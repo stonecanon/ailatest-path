@@ -8,12 +8,14 @@ const costs = read("data/costs.json");
 const programs = read("data/programs.json");
 const outcomes = read("data/outcomes.json");
 const reviews = read("data/review_summaries.json");
+const experienceLinks = read("data/experience_links.json");
 const sources = read("data/sources.json");
 
 const errors = [];
 const warnings = [];
 const byId = new Map(institutions.map((item) => [item.id, item]));
 const urlPattern = /^https?:\/\//;
+const requiredExperiencePlatforms = ["Xiaohongshu", "YouTube", "Instagram", "TikTok", "Douyin"];
 
 function assert(condition, message) {
   if (!condition) errors.push(message);
@@ -84,6 +86,24 @@ for (const review of reviews) {
   assert((review.short_excerpt || "").split(/\s+/).filter(Boolean).length <= 12, `Review excerpt for ${review.institution_id} is too long.`);
 }
 
+const experienceIds = new Set();
+for (const record of experienceLinks) {
+  assert(byId.has(record.institution_id), `Experience links reference unknown institution ${record.institution_id}.`);
+  assert(!experienceIds.has(record.institution_id), `Duplicate experience-link record for ${record.institution_id}.`);
+  experienceIds.add(record.institution_id);
+  assert(record.generated_at, `Experience links for ${record.institution_id} need generated_at.`);
+  assert(Array.isArray(record.links) && record.links.length === requiredExperiencePlatforms.length, `Experience links for ${record.institution_id} need five platforms.`);
+  const platforms = new Set((record.links || []).map((item) => item.platform));
+  for (const platform of requiredExperiencePlatforms) {
+    assert(platforms.has(platform), `Experience links for ${record.institution_id} are missing ${platform}.`);
+  }
+  for (const item of record.links || []) {
+    assert(urlPattern.test(item.url || ""), `${item.platform} experience link for ${record.institution_id} is invalid.`);
+    assert(item.search_query && item.content_type && item.access_note, `${item.platform} experience link for ${record.institution_id} is incomplete.`);
+  }
+}
+assert(experienceIds.size === institutions.length, `Experience-link coverage is ${experienceIds.size}/${institutions.length} schools.`);
+
 if (errors.length) {
   console.error("Validation failed:");
   for (const error of errors) console.error(`- ${error}`);
@@ -95,4 +115,4 @@ if (warnings.length) {
   for (const item of warnings) console.warn(`- ${item}`);
 }
 
-console.log(`Validation passed: ${institutions.length} institutions, ${costs.length} costs, ${programs.length} programs, ${reviews.length} review summaries.`);
+console.log(`Validation passed: ${institutions.length} institutions, ${costs.length} costs, ${programs.length} programs, ${reviews.length} review summaries, ${experienceIds.size * requiredExperiencePlatforms.length} experience links.`);

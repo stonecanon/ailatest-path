@@ -133,6 +133,7 @@ function render() {
       <p>${school.programs.length ? school.programs.slice(0, 2).map((program) => program.program_name).join(" · ") : t("programsPending")}</p>
       <div class="card-actions">
         <a href="/schools/${school.id}/">${language() === "zh" ? "查看详情" : "View details"}</a>
+        <a href="/schools/${school.id}/#student-experiences">${language() === "zh" ? "学生体验" : "Student experiences"}</a>
         ${school.apply_url ? `<a href="${school.apply_url}" target="_blank" rel="noreferrer">${language() === "zh" ? "官方申请" : "Official apply"}</a>` : ""}
       </div>
     </article>

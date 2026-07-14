@@ -68,5 +68,15 @@
     "ingestion_policy": "Summarize themes; avoid login-only, private, deleted, or bulk raw comment reuse.",
     "allowed_display_behavior": "Display a short theme summary, optional short excerpt, source link, and caveat that it is not verified fact.",
     "notes_and_limitations": "Public comments are anecdotal and can be outdated, biased, or unrepresentative."
+  },
+  {
+    "id": "social-experience-discovery",
+    "publisher": "Xiaohongshu, YouTube, Instagram, TikTok, and Douyin",
+    "url": "https://path.ailatest.org/",
+    "fields_used": ["school-specific public search links", "platform", "content type", "search query", "generation date"],
+    "update_cadence": "Generated whenever the school database changes",
+    "ingestion_policy": "Generate a school-specific platform search URL; do not scrape, republish, rank, or imply verification of user posts.",
+    "allowed_display_behavior": "Display outbound discovery links with a clear user-generated-content caveat and access note.",
+    "notes_and_limitations": "Results are personalized and can change by account, region, language, moderation status, and time; some platforms require sign-in or their mobile app."
   }
 ]

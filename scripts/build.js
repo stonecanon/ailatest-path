@@ -9,7 +9,9 @@ const costs = read("data/costs.json");
 const programs = read("data/programs.json");
 const outcomes = read("data/outcomes.json");
 const reviews = read("data/review_summaries.json");
+const experienceLinks = read("data/experience_links.json");
 const siteUrl = "https://path.ailatest.org";
+const experienceByInstitution = new Map(experienceLinks.map((item) => [item.institution_id, item.links]));
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -170,6 +172,23 @@ function detailPage(school) {
       <p><a href="${escapeHtml(review.source_url)}" target="_blank" rel="noreferrer" data-i18n="openLink">Open</a></p>
     </article>`).join("") : `<p class="muted" data-i18n="publicDiscussionPending">Public discussion summary is not added yet.</p>`;
 
+  const experienceRows = school.experience_links.map((item) => {
+    const platformClass = item.platform.toLowerCase();
+    const mark = {
+      Xiaohongshu: "RED",
+      YouTube: "▶",
+      Instagram: "◎",
+      TikTok: "♪",
+      Douyin: "抖"
+    }[item.platform] || item.label.slice(0, 2);
+    const typeKey = item.content_type === "video" ? "video" : item.content_type === "short_video" ? "shortVideo" : "photoVideo";
+    const typeFallback = item.content_type === "video" ? "Video" : item.content_type === "short_video" ? "Short video" : "Photos and video";
+    return `<a class="experience-link experience-${escapeHtml(platformClass)}" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer noopener" title="${escapeHtml(item.access_note)}">
+      <span class="experience-platform"><span class="experience-mark" aria-hidden="true">${escapeHtml(mark)}</span><span><strong>${escapeHtml(item.label)}</strong><small data-i18n="${typeKey}">${escapeHtml(typeFallback)}</small></span></span>
+      <span class="experience-action" data-i18n="findExperiences">Find experiences</span>
+    </a>`;
+  }).join("");
+
   const body = `
 <header class="topbar">
   <a class="brand" href="/">AILatest Path</a>
@@ -230,6 +249,13 @@ function detailPage(school) {
       <div><strong>${formatUsd(school.outcome?.debt_signal)}</strong><span data-i18n="debtSignal">Median debt</span></div>
     </div>
     <p class="muted">${escapeHtml(school.outcome?.limitations_note)}</p>
+  </section>
+
+  <section class="band" id="student-experiences">
+    <h2 data-i18n="studentExperiences">Student experiences</h2>
+    <p class="muted" data-i18n="experienceIntro">Open a focused search for this school on public photo and video platforms.</p>
+    <div class="experience-grid">${experienceRows}</div>
+    <p class="experience-note" data-i18n="experienceCaveat">These are live platform searches, not verified school facts. Results can change and some platforms may require sign-in.</p>
   </section>
 
   <section class="band">
@@ -346,7 +372,10 @@ fs.writeFileSync(path.join(dist, "sitemap.xml"), `<?xml version="1.0" encoding="
 for (const school of data) {
   const schoolDir = path.join(dist, "schools", school.id);
   ensureDir(schoolDir);
-  fs.writeFileSync(path.join(schoolDir, "index.html"), detailPage(school));
+  fs.writeFileSync(path.join(schoolDir, "index.html"), detailPage({
+    ...school,
+    experience_links: experienceByInstitution.get(school.id) || []
+  }));
 }
 
 console.log(`Built ${data.length} school pages into dist/.`);

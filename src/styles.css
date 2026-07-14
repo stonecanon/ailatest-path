@@ -450,6 +450,72 @@ input[type="range"] {
   color: var(--muted);
 }
 
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 10px;
+  margin-top: 16px;
+}
+
+#student-experiences { scroll-margin-top: 92px; }
+
+.experience-link {
+  min-width: 0;
+  min-height: 116px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  text-decoration: none;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.experience-link:hover {
+  border-color: #9bc9c2;
+  box-shadow: 0 8px 22px rgba(15, 94, 89, .1);
+  transform: translateY(-1px);
+}
+
+.experience-platform {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.experience-platform strong,
+.experience-platform small { display: block; }
+.experience-platform strong { font-size: 15px; }
+.experience-platform small { margin-top: 3px; color: var(--muted); font-size: 11px; }
+
+.experience-mark {
+  width: 38px;
+  height: 38px;
+  flex: 0 0 38px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  background: #1f2528;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: -.03em;
+}
+
+.experience-xiaohongshu .experience-mark { background: #ff2442; font-size: 9px; }
+.experience-youtube .experience-mark { background: #ff0033; }
+.experience-instagram .experience-mark { background: #7b4ba0; font-size: 22px; }
+.experience-tiktok .experience-mark { background: #17191b; font-size: 20px; }
+.experience-douyin .experience-mark { background: #17191b; font-size: 16px; }
+.experience-action { color: var(--brand-dark); font-size: 12px; font-weight: 800; }
+.experience-action::after { content: " ↗"; }
+.experience-note { margin: 12px 0 0; color: var(--muted); font-size: 12px; line-height: 1.55; }
+
 .zh {
   font-family: inherit;
 }
@@ -493,6 +559,11 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible { 
   }
   .contact-grid { grid-template-columns:1fr; }
   .contact-matrix { grid-template-columns:1fr; }
+}
+
+@media (min-width: 360px) and (max-width: 760px) {
+  .experience-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .experience-link:last-child:nth-child(odd) { grid-column: 1 / -1; }
 }
 
 @media (prefers-reduced-motion: reduce) {
