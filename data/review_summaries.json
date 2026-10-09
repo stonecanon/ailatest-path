@@ -1,0 +1,46 @@
+[
+  {
+    "institution_id": "minot-state-university",
+    "platform": "Reddit",
+    "topic": "cost and location tradeoff",
+    "sentiment": "mixed",
+    "summary": "Public discussion often frames Minot State as notably affordable, while also warning that Minot is remote and cold, so students should evaluate transportation, climate, and local fit.",
+    "short_excerpt": "affordable institutions",
+    "source_url": "https://www.reddit.com/r/UoPeople/comments/15uli2l/finally_credits_transferred_from_uopeople_to_msu/",
+    "collected_at": "2026-07-07",
+    "moderation_status": "public_discussion_not_verified_fact"
+  },
+  {
+    "institution_id": "minot-state-university",
+    "platform": "Reddit",
+    "topic": "international student process",
+    "sentiment": "neutral",
+    "summary": "A recent international-student thread focuses on profile fit and F-1 questions; the site should route readers to official admissions and international office pages instead of treating peer replies as advice.",
+    "short_excerpt": "F1 visa",
+    "source_url": "https://www.reddit.com/r/InternationalStudents/comments/1lzm4mc/f1_visa_is_my_profile_okay_for_minot_state/",
+    "collected_at": "2026-07-07",
+    "moderation_status": "public_discussion_not_verified_fact"
+  },
+  {
+    "institution_id": "dakota-state-university",
+    "platform": "Reddit",
+    "topic": "cybersecurity program reputation",
+    "sentiment": "positive",
+    "summary": "Public cybersecurity discussions describe DSU's cyber coursework as hands-on, but these are anecdotes and should be checked against official curriculum, faculty, and delivery details.",
+    "short_excerpt": "more hands on",
+    "source_url": "https://www.reddit.com/r/OMSCyberSecurity/comments/16tshrq/dsu_ms_cyber_defense/",
+    "collected_at": "2026-07-07",
+    "moderation_status": "public_discussion_not_verified_fact"
+  },
+  {
+    "institution_id": "southeast-missouri-state-university",
+    "platform": "Official/public discussion pending",
+    "topic": "international cost and admissions",
+    "sentiment": "neutral",
+    "summary": "No first-version public discussion summary is displayed yet; use official SEMO cost and international admissions pages for the pilot.",
+    "short_excerpt": "",
+    "source_url": "https://semo.edu/international/admissions/",
+    "collected_at": "2026-07-07",
+    "moderation_status": "official_placeholder_not_public_review"
+  }
+]
